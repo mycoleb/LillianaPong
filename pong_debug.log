@@ -1,0 +1,1560 @@
+2025-01-14 09:35:44,590 - INFO - Starting Lilliana Pong...
+2025-01-14 09:35:44,844 - INFO - Attempting to load ball image from: C:\Users\mycol\edu\lillianapong\ball.png
+2025-01-14 09:35:44,876 - INFO - Successfully loaded ball image
+2025-01-14 09:35:44,876 - INFO - Attempting to load paddle image from: C:\Users\mycol\edu\lillianapong\paddle.png
+2025-01-14 09:35:44,884 - INFO - Successfully loaded paddle image
+2025-01-14 09:35:46,077 - INFO - Ball initialized with speed_x: -4, speed_y: -4
+2025-01-14 09:35:46,078 - DEBUG - Ball reset to position: (400, 325) with speeds: (4, -4)
+2025-01-14 09:35:47,206 - DEBUG - Ball hit horizontal boundary at y=-1
+2025-01-14 09:35:47,491 - DEBUG - Ball collided with opponent paddle
+2025-01-14 09:35:47,508 - DEBUG - Ball collided with opponent paddle
+2025-01-14 09:35:47,524 - DEBUG - Ball collided with opponent paddle
+2025-01-14 09:35:47,541 - DEBUG - Ball collided with opponent paddle
+2025-01-14 09:35:47,558 - DEBUG - Ball collided with opponent paddle
+2025-01-14 09:35:47,576 - DEBUG - Ball collided with opponent paddle
+2025-01-14 09:35:47,592 - DEBUG - Ball collided with opponent paddle
+2025-01-14 09:35:47,609 - DEBUG - Ball collided with opponent paddle
+2025-01-14 09:35:47,626 - DEBUG - Ball collided with opponent paddle
+2025-01-14 09:35:47,642 - DEBUG - Ball collided with opponent paddle
+2025-01-14 09:35:47,659 - DEBUG - Ball collided with opponent paddle
+2025-01-14 09:35:47,675 - DEBUG - Ball collided with opponent paddle
+2025-01-14 09:35:47,691 - DEBUG - Ball collided with opponent paddle
+2025-01-14 09:35:47,708 - DEBUG - Ball collided with opponent paddle
+2025-01-14 09:35:47,725 - DEBUG - Ball collided with opponent paddle
+2025-01-14 09:35:47,742 - DEBUG - Ball collided with opponent paddle
+2025-01-14 09:35:47,758 - DEBUG - Ball collided with opponent paddle
+2025-01-14 09:35:47,775 - DEBUG - Ball collided with opponent paddle
+2025-01-14 09:35:47,791 - DEBUG - Ball collided with opponent paddle
+2025-01-14 09:35:47,808 - DEBUG - Ball collided with opponent paddle
+2025-01-14 09:35:47,824 - DEBUG - Ball collided with opponent paddle
+2025-01-14 09:35:47,840 - DEBUG - Ball collided with opponent paddle
+2025-01-14 09:35:47,857 - DEBUG - Ball collided with opponent paddle
+2025-01-14 09:35:47,873 - DEBUG - Ball collided with opponent paddle
+2025-01-14 09:35:47,889 - DEBUG - Ball collided with opponent paddle
+2025-01-14 09:35:47,905 - DEBUG - Ball collided with opponent paddle
+2025-01-14 09:35:47,921 - DEBUG - Ball collided with opponent paddle
+2025-01-14 09:35:47,938 - DEBUG - Ball collided with opponent paddle
+2025-01-14 09:35:47,956 - DEBUG - Ball collided with opponent paddle
+2025-01-14 09:35:47,972 - DEBUG - Ball collided with opponent paddle
+2025-01-14 09:35:47,989 - DEBUG - Ball collided with opponent paddle
+2025-01-14 09:35:48,006 - DEBUG - Ball collided with opponent paddle
+2025-01-14 09:35:48,021 - DEBUG - Ball collided with opponent paddle
+2025-01-14 09:35:48,038 - DEBUG - Ball collided with opponent paddle
+2025-01-14 09:35:48,055 - DEBUG - Ball collided with opponent paddle
+2025-01-14 09:35:48,073 - DEBUG - Ball collided with opponent paddle
+2025-01-14 09:35:48,088 - DEBUG - Ball collided with opponent paddle
+2025-01-14 09:35:48,105 - DEBUG - Ball collided with opponent paddle
+2025-01-14 09:35:48,121 - DEBUG - Ball collided with opponent paddle
+2025-01-14 09:35:48,137 - DEBUG - Ball collided with opponent paddle
+2025-01-14 09:35:48,154 - DEBUG - Ball collided with opponent paddle
+2025-01-14 09:35:48,170 - DEBUG - Ball collided with opponent paddle
+2025-01-14 09:35:48,187 - DEBUG - Ball collided with opponent paddle
+2025-01-14 09:35:48,204 - DEBUG - Ball collided with opponent paddle
+2025-01-14 09:35:48,221 - DEBUG - Ball collided with opponent paddle
+2025-01-14 09:35:48,238 - DEBUG - Ball collided with opponent paddle
+2025-01-14 09:35:48,255 - DEBUG - Ball collided with opponent paddle
+2025-01-14 09:35:48,271 - DEBUG - Ball collided with opponent paddle
+2025-01-14 09:35:48,288 - DEBUG - Ball collided with opponent paddle
+2025-01-14 09:35:48,305 - DEBUG - Ball collided with opponent paddle
+2025-01-14 09:35:48,322 - DEBUG - Ball collided with opponent paddle
+2025-01-14 09:35:48,338 - DEBUG - Ball collided with opponent paddle
+2025-01-14 09:35:48,355 - DEBUG - Ball collided with opponent paddle
+2025-01-14 09:35:48,372 - DEBUG - Ball collided with opponent paddle
+2025-01-14 09:35:48,387 - DEBUG - Ball collided with opponent paddle
+2025-01-14 09:35:48,404 - DEBUG - Ball collided with opponent paddle
+2025-01-14 09:35:48,419 - DEBUG - Ball collided with opponent paddle
+2025-01-14 09:35:48,436 - DEBUG - Ball collided with opponent paddle
+2025-01-14 09:35:48,453 - DEBUG - Ball collided with opponent paddle
+2025-01-14 09:35:48,469 - DEBUG - Ball collided with opponent paddle
+2025-01-14 09:35:48,486 - DEBUG - Ball collided with opponent paddle
+2025-01-14 09:35:48,503 - DEBUG - Ball collided with opponent paddle
+2025-01-14 09:35:48,519 - DEBUG - Ball collided with opponent paddle
+2025-01-14 09:35:48,536 - DEBUG - Ball collided with opponent paddle
+2025-01-14 09:35:48,553 - DEBUG - Ball collided with opponent paddle
+2025-01-14 09:35:48,569 - DEBUG - Ball collided with opponent paddle
+2025-01-14 09:35:49,511 - DEBUG - Ball hit horizontal boundary at y=551
+2025-01-14 09:35:51,810 - DEBUG - Ball hit horizontal boundary at y=-1
+2025-01-14 09:35:54,099 - DEBUG - Ball hit horizontal boundary at y=551
+2025-01-14 09:35:56,392 - DEBUG - Ball hit horizontal boundary at y=-1
+2025-01-14 09:35:58,690 - DEBUG - Ball hit horizontal boundary at y=551
+2025-01-14 09:36:00,995 - DEBUG - Ball hit horizontal boundary at y=-1
+2025-01-14 09:36:03,285 - DEBUG - Ball hit horizontal boundary at y=551
+2025-01-14 09:36:05,577 - DEBUG - Ball hit horizontal boundary at y=-1
+2025-01-14 09:37:20,284 - INFO - Starting Lilliana Pong...
+2025-01-14 09:37:20,284 - INFO - Attempting to load ball image from: C:\Users\mycol\edu\lillianapong\ball.png
+2025-01-14 09:37:20,284 - INFO - Successfully loaded ball image
+2025-01-14 09:37:20,300 - INFO - Attempting to load paddle image from: C:\Users\mycol\edu\lillianapong\paddle.png
+2025-01-14 09:37:20,306 - INFO - Successfully loaded paddle image
+2025-01-14 09:37:21,597 - INFO - Ball initialized with speed_x: -4, speed_y: 4
+2025-01-14 09:37:21,598 - DEBUG - Ball reset to position: (400, 325) with speeds: (-4, 4)
+2025-01-14 09:37:22,609 - INFO - Current FPS: 61.35
+2025-01-14 09:37:22,726 - DEBUG - Ball hit horizontal boundary at y=551
+2025-01-14 09:37:23,006 - DEBUG - Ball collided with player paddle
+2025-01-14 09:37:23,023 - DEBUG - Ball collided with player paddle
+2025-01-14 09:37:23,039 - DEBUG - Ball collided with player paddle
+2025-01-14 09:37:23,056 - DEBUG - Ball collided with player paddle
+2025-01-14 09:37:23,074 - DEBUG - Ball collided with player paddle
+2025-01-14 09:37:23,090 - DEBUG - Ball collided with player paddle
+2025-01-14 09:37:23,108 - DEBUG - Ball collided with player paddle
+2025-01-14 09:37:23,123 - DEBUG - Ball collided with player paddle
+2025-01-14 09:37:23,141 - DEBUG - Ball collided with player paddle
+2025-01-14 09:37:23,157 - DEBUG - Ball collided with player paddle
+2025-01-14 09:37:23,174 - DEBUG - Ball collided with player paddle
+2025-01-14 09:37:23,191 - DEBUG - Ball collided with player paddle
+2025-01-14 09:37:23,207 - DEBUG - Ball collided with player paddle
+2025-01-14 09:37:23,224 - DEBUG - Ball collided with player paddle
+2025-01-14 09:37:23,242 - DEBUG - Ball collided with player paddle
+2025-01-14 09:37:23,258 - DEBUG - Ball collided with player paddle
+2025-01-14 09:37:23,275 - DEBUG - Ball collided with player paddle
+2025-01-14 09:37:23,290 - DEBUG - Ball collided with player paddle
+2025-01-14 09:37:23,307 - DEBUG - Ball collided with player paddle
+2025-01-14 09:37:23,325 - DEBUG - Ball collided with player paddle
+2025-01-14 09:37:23,341 - DEBUG - Ball collided with player paddle
+2025-01-14 09:37:23,357 - DEBUG - Ball collided with player paddle
+2025-01-14 09:37:23,374 - DEBUG - Ball collided with player paddle
+2025-01-14 09:37:23,390 - DEBUG - Ball collided with player paddle
+2025-01-14 09:37:23,406 - DEBUG - Ball collided with player paddle
+2025-01-14 09:37:23,422 - DEBUG - Ball collided with player paddle
+2025-01-14 09:37:23,439 - DEBUG - Ball collided with player paddle
+2025-01-14 09:37:23,457 - DEBUG - Ball collided with player paddle
+2025-01-14 09:37:23,474 - DEBUG - Ball collided with player paddle
+2025-01-14 09:37:23,490 - DEBUG - Ball collided with player paddle
+2025-01-14 09:37:23,505 - DEBUG - Ball collided with player paddle
+2025-01-14 09:37:23,522 - DEBUG - Ball collided with player paddle
+2025-01-14 09:37:23,537 - DEBUG - Ball collided with player paddle
+2025-01-14 09:37:23,554 - DEBUG - Ball collided with player paddle
+2025-01-14 09:37:23,570 - DEBUG - Ball collided with player paddle
+2025-01-14 09:37:23,588 - DEBUG - Ball collided with player paddle
+2025-01-14 09:37:23,603 - DEBUG - Ball collided with player paddle
+2025-01-14 09:37:23,621 - INFO - Current FPS: 60.30
+2025-01-14 09:37:23,623 - DEBUG - Ball collided with player paddle
+2025-01-14 09:37:23,638 - DEBUG - Ball collided with player paddle
+2025-01-14 09:37:23,655 - DEBUG - Ball collided with player paddle
+2025-01-14 09:37:23,671 - DEBUG - Ball collided with player paddle
+2025-01-14 09:37:23,688 - DEBUG - Ball collided with player paddle
+2025-01-14 09:37:23,703 - DEBUG - Ball collided with player paddle
+2025-01-14 09:37:23,720 - DEBUG - Ball collided with player paddle
+2025-01-14 09:37:23,737 - DEBUG - Ball collided with player paddle
+2025-01-14 09:37:23,753 - DEBUG - Ball collided with player paddle
+2025-01-14 09:37:24,632 - INFO - Current FPS: 60.35
+2025-01-14 09:37:25,009 - DEBUG - Ball hit horizontal boundary at y=-1
+2025-01-14 09:37:25,634 - INFO - Current FPS: 59.85
+2025-01-14 09:37:26,640 - INFO - Current FPS: 60.63
+2025-01-14 09:37:27,303 - DEBUG - Ball hit horizontal boundary at y=551
+2025-01-14 09:37:27,652 - INFO - Current FPS: 60.26
+2025-01-14 09:37:28,664 - INFO - Current FPS: 60.27
+2025-01-14 09:37:29,589 - DEBUG - Ball hit horizontal boundary at y=-1
+2025-01-14 09:37:29,672 - INFO - Current FPS: 60.54
+2025-01-14 09:37:30,681 - INFO - Current FPS: 60.43
+2025-01-14 09:37:30,926 - INFO - Game quit requested
+2025-01-14 09:52:26,233 - INFO - Starting Lilliana Pong...
+2025-01-14 09:52:26,233 - INFO - Attempting to load ball image from: C:\Users\mycol\edu\lillianapong\ball.png
+2025-01-14 09:52:26,242 - INFO - Successfully loaded ball image
+2025-01-14 09:52:26,242 - INFO - Attempting to load paddle image from: C:\Users\mycol\edu\lillianapong\paddle.png
+2025-01-14 09:52:26,250 - INFO - Successfully loaded paddle image
+2025-01-14 09:52:27,984 - INFO - Ball initialized with speed_x: -4, speed_y: 4
+2025-01-14 09:52:27,984 - DEBUG - Ball reset to position: (400, 325) with speeds: (-4, 4)
+2025-01-14 09:52:28,997 - INFO - Current FPS: 61.32
+2025-01-14 09:52:29,113 - DEBUG - Ball hit horizontal boundary at y=551
+2025-01-14 09:52:30,005 - INFO - Current FPS: 60.51
+2025-01-14 09:52:31,012 - INFO - Current FPS: 60.56
+2025-01-14 09:52:31,396 - DEBUG - Ball hit horizontal boundary at y=-1
+2025-01-14 09:52:32,021 - INFO - Current FPS: 60.47
+2025-01-14 09:52:33,036 - INFO - Current FPS: 60.05
+2025-01-14 09:52:33,690 - DEBUG - Ball hit horizontal boundary at y=551
+2025-01-14 09:52:34,041 - INFO - Current FPS: 59.75
+2025-01-14 09:52:35,045 - INFO - Current FPS: 60.75
+2025-01-14 09:52:35,971 - DEBUG - Ball hit horizontal boundary at y=-1
+2025-01-14 09:52:36,054 - INFO - Current FPS: 60.44
+2025-01-14 09:52:37,062 - INFO - Current FPS: 60.52
+2025-01-14 09:52:38,071 - INFO - Current FPS: 60.49
+2025-01-14 09:52:38,252 - DEBUG - Ball hit horizontal boundary at y=551
+2025-01-14 09:52:39,082 - INFO - Current FPS: 60.30
+2025-01-14 09:52:39,630 - INFO - Game quit requested
+2025-01-14 11:06:46,813 - INFO - Starting Lilliana Pong...
+2025-01-14 11:06:46,814 - INFO - Attempting to load ball image from: C:\Users\mycol\edu\lillianapong\ball.png
+2025-01-14 11:06:46,821 - INFO - Successfully loaded ball image
+2025-01-14 11:06:46,821 - INFO - Attempting to load paddle image from: C:\Users\mycol\edu\lillianapong\paddle.png
+2025-01-14 11:06:46,828 - INFO - Successfully loaded paddle image
+2025-01-14 11:06:46,829 - INFO - Scaled ball to 50x55
+2025-01-14 11:06:46,829 - INFO - Scaled paddle to 30x57
+2025-01-14 11:06:48,646 - INFO - Ball initialized with speed_x: -4, speed_y: -4
+2025-01-14 11:06:48,648 - DEBUG - Ball reset to position: (400, 325) with speeds: (-4, 4)
+2025-01-14 11:06:49,652 - INFO - Current FPS: 60.85
+2025-01-14 11:06:49,884 - DEBUG - Ball hit horizontal boundary at y=598
+2025-01-14 11:06:50,665 - INFO - Current FPS: 60.20
+2025-01-14 11:06:51,665 - INFO - Current FPS: 60.00
+2025-01-14 11:06:52,382 - DEBUG - Ball hit horizontal boundary at y=-2
+2025-01-14 11:06:52,667 - INFO - Current FPS: 59.86
+2025-01-14 11:06:53,668 - INFO - Current FPS: 59.99
+2025-01-14 11:06:54,527 - INFO - Game quit requested
+2025-01-14 11:08:21,906 - INFO - Starting Lilliana Pong...
+2025-01-14 11:08:21,908 - INFO - Attempting to load ball image from: C:\Users\mycol\edu\lillianapong\ball.png
+2025-01-14 11:08:21,912 - INFO - Successfully loaded ball image
+2025-01-14 11:08:21,912 - INFO - Attempting to load paddle image from: C:\Users\mycol\edu\lillianapong\paddle.png
+2025-01-14 11:08:21,920 - INFO - Successfully loaded paddle image
+2025-01-14 11:08:21,920 - INFO - Scaled ball to 50x55
+2025-01-14 11:08:21,921 - INFO - Scaled paddle to 30x57
+2025-01-14 11:08:23,169 - INFO - Ball initialized with speed_x: -4, speed_y: -4
+2025-01-14 11:08:23,172 - DEBUG - Ball reset to position: (400, 325) with speeds: (4, -4)
+2025-01-14 11:08:24,182 - INFO - Current FPS: 60.52
+2025-01-14 11:08:24,415 - DEBUG - Ball hit horizontal boundary at y=0
+2025-01-14 11:08:25,195 - INFO - Current FPS: 60.21
+2025-01-14 11:08:25,961 - INFO - Game quit requested
+2025-01-14 11:08:45,920 - INFO - Starting Lilliana Pong...
+2025-01-14 11:08:45,921 - INFO - Attempting to load ball image from: C:\Users\mycol\edu\lillianapong\ball.png
+2025-01-14 11:08:45,924 - INFO - Successfully loaded ball image
+2025-01-14 11:08:45,924 - INFO - Attempting to load paddle image from: C:\Users\mycol\edu\lillianapong\paddle.png
+2025-01-14 11:08:45,929 - INFO - Successfully loaded paddle image
+2025-01-14 11:08:45,930 - INFO - Scaled ball to 50x55
+2025-01-14 11:08:45,930 - INFO - Scaled paddle to 30x57
+2025-01-14 11:08:47,030 - INFO - Ball initialized with speed_x: 4, speed_y: -4
+2025-01-14 11:08:47,032 - DEBUG - Ball reset to position: (400, 325) with speeds: (4, -4)
+2025-01-14 11:08:48,034 - INFO - Current FPS: 60.89
+2025-01-14 11:08:48,353 - DEBUG - Ball hit horizontal boundary at y=-2
+2025-01-14 11:08:49,044 - INFO - Current FPS: 60.37
+2025-01-14 11:08:49,451 - INFO - Game quit requested
+2025-01-14 11:09:45,055 - INFO - Starting Lilliana Pong...
+2025-01-14 11:09:45,055 - INFO - Attempting to load ball image from: C:\Users\mycol\edu\lillianapong\ball.png
+2025-01-14 11:09:45,060 - INFO - Successfully loaded ball image
+2025-01-14 11:09:45,061 - INFO - Attempting to load paddle image from: C:\Users\mycol\edu\lillianapong\paddle.png
+2025-01-14 11:09:45,068 - INFO - Successfully loaded paddle image
+2025-01-14 11:09:45,069 - INFO - Scaled ball to 50x55
+2025-01-14 11:09:45,070 - INFO - Scaled paddle to 30x57
+2025-01-14 11:09:46,433 - INFO - Ball initialized with speed_x: -4, speed_y: 4
+2025-01-14 11:09:46,435 - DEBUG - Ball reset to position: (400, 325) with speeds: (4, -4)
+2025-01-14 11:09:47,437 - INFO - Current FPS: 60.92
+2025-01-14 11:09:47,750 - DEBUG - Ball hit horizontal boundary at y=-2
+2025-01-14 11:09:48,452 - INFO - Current FPS: 60.09
+2025-01-14 11:09:49,302 - INFO - Game quit requested
+2025-01-14 11:10:28,435 - INFO - Starting Lilliana Pong...
+2025-01-14 11:10:28,436 - INFO - Attempting to load ball image from: C:\Users\mycol\edu\lillianapong\ball.png
+2025-01-14 11:10:28,440 - INFO - Successfully loaded ball image
+2025-01-14 11:10:28,441 - INFO - Attempting to load paddle image from: C:\Users\mycol\edu\lillianapong\paddle.png
+2025-01-14 11:10:28,448 - INFO - Successfully loaded paddle image
+2025-01-14 11:10:28,449 - INFO - Scaled ball to 50x55
+2025-01-14 11:10:28,450 - INFO - Scaled paddle to 30x57
+2025-01-14 11:10:29,831 - INFO - Ball initialized with speed_x: 4, speed_y: -4
+2025-01-14 11:10:29,835 - DEBUG - Ball reset to position: (400, 325) with speeds: (-4, 4)
+2025-01-14 11:10:30,207 - DEBUG - Ball collided with player paddle
+2025-01-14 11:10:30,850 - INFO - Current FPS: 61.12
+2025-01-14 11:10:31,099 - DEBUG - Ball hit horizontal boundary at y=613
+2025-01-14 11:10:31,850 - INFO - Current FPS: 59.99
+2025-01-14 11:10:31,883 - DEBUG - Ball collided with opponent paddle
+2025-01-14 11:10:32,864 - INFO - Current FPS: 60.19
+2025-01-14 11:10:33,567 - DEBUG - Ball collided with player paddle
+2025-01-14 11:10:33,669 - DEBUG - Ball hit horizontal boundary at y=-3
+2025-01-14 11:10:33,872 - INFO - Current FPS: 59.50
+2025-01-14 11:10:34,888 - INFO - Current FPS: 60.08
+2025-01-14 11:10:35,255 - DEBUG - Ball collided with opponent paddle
+2025-01-14 11:10:35,889 - INFO - Current FPS: 59.90
+2025-01-14 11:10:36,241 - DEBUG - Ball hit horizontal boundary at y=613
+2025-01-14 11:10:36,892 - INFO - Current FPS: 59.85
+2025-01-14 11:10:36,944 - DEBUG - Ball collided with player paddle
+2025-01-14 11:10:37,896 - INFO - Current FPS: 59.74
+2025-01-14 11:10:38,807 - DEBUG - Ball hit horizontal boundary at y=-3
+2025-01-14 11:10:38,909 - INFO - Current FPS: 60.20
+2025-01-14 11:10:39,256 - DEBUG - Ball collided with opponent paddle
+2025-01-14 11:10:39,273 - DEBUG - Ball collided with opponent paddle
+2025-01-14 11:10:39,289 - DEBUG - Ball collided with opponent paddle
+2025-01-14 11:10:39,306 - DEBUG - Ball collided with opponent paddle
+2025-01-14 11:10:39,322 - DEBUG - Ball collided with opponent paddle
+2025-01-14 11:10:39,340 - DEBUG - Ball collided with opponent paddle
+2025-01-14 11:10:39,356 - DEBUG - Ball collided with opponent paddle
+2025-01-14 11:10:39,373 - DEBUG - Ball collided with opponent paddle
+2025-01-14 11:10:39,391 - DEBUG - Ball collided with opponent paddle
+2025-01-14 11:10:39,408 - DEBUG - Ball collided with opponent paddle
+2025-01-14 11:10:39,424 - DEBUG - Ball collided with opponent paddle
+2025-01-14 11:10:39,440 - DEBUG - Ball collided with opponent paddle
+2025-01-14 11:10:39,457 - DEBUG - Ball collided with opponent paddle
+2025-01-14 11:10:39,474 - DEBUG - Ball collided with opponent paddle
+2025-01-14 11:10:39,490 - DEBUG - Ball collided with opponent paddle
+2025-01-14 11:10:39,508 - DEBUG - Ball collided with opponent paddle
+2025-01-14 11:10:39,525 - DEBUG - Ball collided with opponent paddle
+2025-01-14 11:10:39,541 - DEBUG - Ball collided with opponent paddle
+2025-01-14 11:10:39,557 - DEBUG - Ball collided with opponent paddle
+2025-01-14 11:10:39,573 - DEBUG - Ball collided with opponent paddle
+2025-01-14 11:10:39,590 - DEBUG - Ball collided with opponent paddle
+2025-01-14 11:10:39,606 - DEBUG - Ball collided with opponent paddle
+2025-01-14 11:10:39,623 - DEBUG - Ball collided with opponent paddle
+2025-01-14 11:10:39,640 - DEBUG - Ball collided with opponent paddle
+2025-01-14 11:10:39,657 - DEBUG - Ball collided with opponent paddle
+2025-01-14 11:10:39,673 - DEBUG - Ball collided with opponent paddle
+2025-01-14 11:10:39,692 - DEBUG - Ball collided with opponent paddle
+2025-01-14 11:10:39,709 - DEBUG - Ball collided with opponent paddle
+2025-01-14 11:10:39,727 - DEBUG - Ball collided with opponent paddle
+2025-01-14 11:10:39,743 - DEBUG - Ball collided with opponent paddle
+2025-01-14 11:10:39,759 - DEBUG - Ball collided with opponent paddle
+2025-01-14 11:10:39,775 - DEBUG - Ball collided with opponent paddle
+2025-01-14 11:10:39,791 - DEBUG - Ball collided with opponent paddle
+2025-01-14 11:10:39,808 - DEBUG - Ball collided with opponent paddle
+2025-01-14 11:10:39,824 - DEBUG - Ball collided with opponent paddle
+2025-01-14 11:10:39,842 - DEBUG - Ball collided with opponent paddle
+2025-01-14 11:10:39,859 - DEBUG - Ball collided with opponent paddle
+2025-01-14 11:10:39,876 - DEBUG - Ball collided with opponent paddle
+2025-01-14 11:10:39,894 - DEBUG - Ball collided with opponent paddle
+2025-01-14 11:10:39,909 - DEBUG - Ball collided with opponent paddle
+2025-01-14 11:10:39,927 - INFO - Current FPS: 59.98
+2025-01-14 11:10:39,927 - DEBUG - Ball collided with opponent paddle
+2025-01-14 11:10:39,943 - DEBUG - Ball collided with opponent paddle
+2025-01-14 11:10:39,959 - DEBUG - Ball collided with opponent paddle
+2025-01-14 11:10:39,978 - DEBUG - Ball collided with opponent paddle
+2025-01-14 11:10:39,994 - DEBUG - Ball collided with opponent paddle
+2025-01-14 11:10:40,011 - DEBUG - Ball collided with opponent paddle
+2025-01-14 11:10:40,027 - DEBUG - Ball collided with opponent paddle
+2025-01-14 11:10:40,044 - DEBUG - Ball collided with opponent paddle
+2025-01-14 11:10:40,061 - DEBUG - Ball collided with opponent paddle
+2025-01-14 11:10:40,077 - DEBUG - Ball collided with opponent paddle
+2025-01-14 11:10:40,094 - DEBUG - Ball collided with opponent paddle
+2025-01-14 11:10:40,110 - DEBUG - Ball collided with opponent paddle
+2025-01-14 11:10:40,127 - DEBUG - Ball collided with opponent paddle
+2025-01-14 11:10:40,143 - DEBUG - Ball collided with opponent paddle
+2025-01-14 11:10:40,160 - DEBUG - Ball collided with opponent paddle
+2025-01-14 11:10:40,176 - DEBUG - Ball collided with opponent paddle
+2025-01-14 11:10:40,193 - DEBUG - Ball collided with opponent paddle
+2025-01-14 11:10:40,211 - DEBUG - Ball collided with opponent paddle
+2025-01-14 11:10:40,228 - DEBUG - Ball collided with opponent paddle
+2025-01-14 11:10:40,244 - DEBUG - Ball collided with opponent paddle
+2025-01-14 11:10:40,261 - DEBUG - Ball collided with opponent paddle
+2025-01-14 11:10:40,278 - DEBUG - Ball collided with opponent paddle
+2025-01-14 11:10:40,294 - DEBUG - Ball collided with opponent paddle
+2025-01-14 11:10:40,312 - DEBUG - Ball collided with opponent paddle
+2025-01-14 11:10:40,330 - DEBUG - Ball collided with opponent paddle
+2025-01-14 11:10:40,345 - DEBUG - Ball collided with opponent paddle
+2025-01-14 11:10:40,362 - DEBUG - Ball collided with opponent paddle
+2025-01-14 11:10:40,378 - DEBUG - Ball collided with opponent paddle
+2025-01-14 11:10:40,395 - DEBUG - Ball collided with opponent paddle
+2025-01-14 11:10:40,411 - DEBUG - Ball collided with opponent paddle
+2025-01-14 11:10:40,428 - DEBUG - Ball collided with opponent paddle
+2025-01-14 11:10:40,446 - DEBUG - Ball collided with opponent paddle
+2025-01-14 11:10:40,462 - DEBUG - Ball collided with opponent paddle
+2025-01-14 11:10:40,479 - DEBUG - Ball collided with opponent paddle
+2025-01-14 11:10:40,495 - DEBUG - Ball collided with opponent paddle
+2025-01-14 11:10:40,511 - DEBUG - Ball collided with opponent paddle
+2025-01-14 11:10:40,527 - DEBUG - Ball collided with opponent paddle
+2025-01-14 11:10:40,543 - DEBUG - Ball collided with opponent paddle
+2025-01-14 11:10:40,560 - DEBUG - Ball collided with opponent paddle
+2025-01-14 11:10:40,577 - DEBUG - Ball collided with opponent paddle
+2025-01-14 11:10:40,595 - DEBUG - Ball collided with opponent paddle
+2025-01-14 11:10:40,612 - DEBUG - Ball collided with opponent paddle
+2025-01-14 11:10:40,628 - DEBUG - Ball collided with opponent paddle
+2025-01-14 11:10:40,645 - DEBUG - Ball collided with opponent paddle
+2025-01-14 11:10:40,661 - DEBUG - Ball collided with opponent paddle
+2025-01-14 11:10:40,677 - DEBUG - Ball collided with opponent paddle
+2025-01-14 11:10:40,695 - DEBUG - Ball collided with opponent paddle
+2025-01-14 11:10:40,712 - DEBUG - Ball collided with opponent paddle
+2025-01-14 11:10:40,728 - DEBUG - Ball collided with opponent paddle
+2025-01-14 11:10:40,745 - DEBUG - Ball collided with opponent paddle
+2025-01-14 11:10:40,931 - INFO - Current FPS: 59.72
+2025-01-14 11:10:41,387 - DEBUG - Ball hit horizontal boundary at y=613
+2025-01-14 11:10:42,020 - INFO - Game quit requested
+2025-01-14 12:03:30,497 - INFO - Starting Lilliana Pong...
+2025-01-14 12:03:30,497 - INFO - Attempting to load ball image from: C:\Users\mycol\edu\lillianapong\ball.png
+2025-01-14 12:03:30,497 - INFO - Successfully loaded ball image
+2025-01-14 12:03:30,497 - INFO - Attempting to load paddle image from: C:\Users\mycol\edu\lillianapong\paddle.png
+2025-01-14 12:03:30,519 - INFO - Successfully loaded paddle image
+2025-01-14 12:03:30,520 - INFO - Scaled ball to 40x40
+2025-01-14 12:03:30,520 - INFO - Scaled paddle to 60x75
+2025-01-14 12:03:32,201 - INFO - Ball initialized with speed_x: -4, speed_y: 4
+2025-01-14 12:03:32,202 - DEBUG - Ball reset to position: (400, 325) with speeds: (-4, -4)
+2025-01-14 12:03:33,214 - INFO - Current FPS: 61.25
+2025-01-14 12:03:33,465 - DEBUG - Ball hit horizontal boundary at y=-3
+2025-01-14 12:03:34,225 - INFO - Current FPS: 60.34
+2025-01-14 12:03:35,238 - INFO - Current FPS: 60.22
+2025-01-14 12:03:36,018 - DEBUG - Ball hit horizontal boundary at y=613
+2025-01-14 12:03:36,247 - INFO - Current FPS: 60.47
+2025-01-14 12:03:37,260 - INFO - Current FPS: 60.25
+2025-01-14 12:03:38,275 - INFO - Current FPS: 60.05
+2025-01-14 12:03:38,573 - DEBUG - Ball hit horizontal boundary at y=-3
+2025-01-14 12:03:39,288 - INFO - Current FPS: 60.22
+2025-01-14 12:03:40,291 - INFO - Current FPS: 59.82
+2025-01-14 12:03:41,136 - DEBUG - Ball hit horizontal boundary at y=613
+2025-01-14 12:03:41,303 - INFO - Current FPS: 60.32
+2025-01-14 12:03:42,314 - INFO - Current FPS: 60.30
+2025-01-14 12:03:43,317 - INFO - Current FPS: 60.86
+2025-01-14 12:03:43,676 - DEBUG - Ball hit horizontal boundary at y=-3
+2025-01-14 12:03:44,322 - INFO - Current FPS: 60.67
+2025-01-14 12:03:45,327 - INFO - Current FPS: 60.68
+2025-01-14 12:03:46,259 - DEBUG - Ball hit horizontal boundary at y=613
+2025-01-14 12:03:46,343 - INFO - Current FPS: 58.08
+2025-01-14 12:03:47,344 - INFO - Current FPS: 59.96
+2025-01-14 12:03:48,351 - INFO - Current FPS: 60.58
+2025-01-14 12:03:48,814 - DEBUG - Ball hit horizontal boundary at y=-3
+2025-01-14 12:03:49,365 - INFO - Current FPS: 53.22
+2025-01-14 12:03:49,991 - INFO - Game quit requested
+2025-01-14 12:06:52,800 - INFO - Starting Lilliana Pong...
+2025-01-14 12:06:52,800 - INFO - Attempting to load ball image from: C:\Users\mycol\edu\lillianapong\ball.png
+2025-01-14 12:06:52,815 - INFO - Successfully loaded ball image
+2025-01-14 12:06:52,815 - INFO - Attempting to load paddle image from: C:\Users\mycol\edu\lillianapong\paddle.png
+2025-01-14 12:06:52,827 - INFO - Successfully loaded paddle image
+2025-01-14 12:06:52,828 - INFO - Scaled ball to 40x40
+2025-01-14 12:06:52,828 - INFO - Scaled paddle to 60x75
+2025-01-14 12:06:54,441 - INFO - Ball initialized with speed_x: -4, speed_y: 4
+2025-01-14 12:06:54,442 - DEBUG - Ball reset to position: (400, 325) with speeds: (-4, 4)
+2025-01-14 12:06:55,445 - INFO - Current FPS: 60.88
+2025-01-14 12:06:55,713 - DEBUG - Ball hit horizontal boundary at y=613
+2025-01-14 12:06:56,458 - INFO - Current FPS: 60.19
+2025-01-14 12:06:57,465 - INFO - Current FPS: 60.59
+2025-01-14 12:06:58,257 - DEBUG - Ball hit horizontal boundary at y=-3
+2025-01-14 12:06:58,475 - INFO - Current FPS: 60.39
+2025-01-14 12:06:59,488 - INFO - Current FPS: 60.23
+2025-01-14 12:07:00,497 - INFO - Current FPS: 60.46
+2025-01-14 12:07:00,803 - INFO - Game quit requested
+2025-01-14 12:08:04,945 - INFO - Starting Lilliana Pong...
+2025-01-14 12:08:04,961 - INFO - Attempting to load ball image from: C:\Users\mycol\edu\lillianapong\ball.png
+2025-01-14 12:08:04,961 - INFO - Successfully loaded ball image
+2025-01-14 12:08:04,961 - INFO - Attempting to load paddle image from: C:\Users\mycol\edu\lillianapong\paddle.png
+2025-01-14 12:08:04,975 - INFO - Successfully loaded paddle image
+2025-01-14 12:08:04,976 - INFO - Scaled ball to 40x40
+2025-01-14 12:08:04,977 - INFO - Scaled paddle to 60x75
+2025-01-14 12:08:06,549 - INFO - Ball initialized with speed_x: -4, speed_y: 4
+2025-01-14 12:08:06,549 - DEBUG - Ball reset to position: (400, 325) with speeds: (-4, -4)
+2025-01-14 12:08:07,564 - INFO - Current FPS: 61.16
+2025-01-14 12:08:07,817 - DEBUG - Ball hit horizontal boundary at y=-3
+2025-01-14 12:08:08,567 - INFO - Current FPS: 59.80
+2025-01-14 12:08:09,577 - INFO - Current FPS: 60.42
+2025-01-14 12:08:10,375 - DEBUG - Ball hit horizontal boundary at y=613
+2025-01-14 12:08:10,590 - INFO - Current FPS: 60.19
+2025-01-14 12:08:11,025 - INFO - Game quit requested
+2025-01-14 12:09:32,412 - INFO - Starting Lilliana Pong...
+2025-01-14 12:09:32,412 - INFO - Attempting to load ball image from: C:\Users\mycol\edu\lillianapong\ball.png
+2025-01-14 12:09:32,412 - INFO - Successfully loaded ball image
+2025-01-14 12:09:32,412 - INFO - Attempting to load paddle image from: C:\Users\mycol\edu\lillianapong\paddle.png
+2025-01-14 12:09:32,427 - INFO - Successfully loaded paddle image
+2025-01-14 12:09:32,428 - INFO - Scaled ball to 40x40
+2025-01-14 12:09:32,428 - INFO - Scaled paddle to 60x75
+2025-01-14 12:09:33,942 - INFO - Ball initialized with speed_x: 4, speed_y: -4
+2025-01-14 12:09:33,943 - DEBUG - Ball reset to position: (400, 325) with speeds: (4, -4)
+2025-01-14 12:09:34,960 - INFO - Current FPS: 61.04
+2025-01-14 12:09:35,209 - DEBUG - Ball hit horizontal boundary at y=-3
+2025-01-14 12:09:35,507 - DEBUG - Ball reset to position: (400, 325) with speeds: (-4, 4)
+2025-01-14 12:09:35,508 - DEBUG - Ball reset after right edge score
+2025-01-14 12:09:35,509 - DEBUG - Ball moved from <rect(756, 65, 40, 40)> to <rect(380, 305, 40, 40)>
+2025-01-14 12:09:35,971 - INFO - Current FPS: 60.30
+2025-01-14 12:09:36,775 - DEBUG - Ball hit horizontal boundary at y=613
+2025-01-14 12:09:36,792 - DEBUG - Ball collided with player paddle
+2025-01-14 12:09:36,809 - DEBUG - Ball collided with player paddle
+2025-01-14 12:09:36,826 - DEBUG - Ball collided with player paddle
+2025-01-14 12:09:36,843 - DEBUG - Ball collided with player paddle
+2025-01-14 12:09:36,860 - DEBUG - Ball collided with player paddle
+2025-01-14 12:09:36,878 - DEBUG - Ball collided with player paddle
+2025-01-14 12:09:36,895 - DEBUG - Ball collided with player paddle
+2025-01-14 12:09:36,911 - DEBUG - Ball collided with player paddle
+2025-01-14 12:09:36,927 - DEBUG - Ball collided with player paddle
+2025-01-14 12:09:36,943 - DEBUG - Ball collided with player paddle
+2025-01-14 12:09:36,959 - DEBUG - Ball collided with player paddle
+2025-01-14 12:09:36,976 - INFO - Current FPS: 60.68
+2025-01-14 12:09:36,976 - DEBUG - Ball collided with player paddle
+2025-01-14 12:09:36,993 - DEBUG - Ball collided with player paddle
+2025-01-14 12:09:37,010 - DEBUG - Ball collided with player paddle
+2025-01-14 12:09:37,026 - DEBUG - Ball collided with player paddle
+2025-01-14 12:09:37,043 - DEBUG - Ball collided with player paddle
+2025-01-14 12:09:37,060 - DEBUG - Ball collided with player paddle
+2025-01-14 12:09:37,077 - DEBUG - Ball collided with player paddle
+2025-01-14 12:09:37,094 - DEBUG - Ball collided with player paddle
+2025-01-14 12:09:37,111 - DEBUG - Ball collided with player paddle
+2025-01-14 12:09:37,128 - DEBUG - Ball collided with player paddle
+2025-01-14 12:09:37,145 - DEBUG - Ball collided with player paddle
+2025-01-14 12:09:37,440 - DEBUG - Ball reset to position: (400, 325) with speeds: (-4, 4)
+2025-01-14 12:09:37,440 - DEBUG - Ball reset after left edge score
+2025-01-14 12:09:37,441 - DEBUG - Ball moved from <rect(4, 457, 40, 40)> to <rect(380, 305, 40, 40)>
+2025-01-14 12:09:37,988 - INFO - Current FPS: 60.29
+2025-01-14 12:09:38,566 - DEBUG - Ball collided with player paddle
+2025-01-14 12:09:38,714 - DEBUG - Ball hit horizontal boundary at y=613
+2025-01-14 12:09:39,000 - INFO - Current FPS: 60.29
+2025-01-14 12:09:40,010 - INFO - Current FPS: 60.36
+2025-01-14 12:09:41,025 - INFO - Current FPS: 60.13
+2025-01-14 12:09:41,273 - DEBUG - Ball hit horizontal boundary at y=-3
+2025-01-14 12:09:41,274 - DEBUG - Ball reset to position: (400, 325) with speeds: (4, 4)
+2025-01-14 12:09:41,275 - DEBUG - Ball reset after right edge score
+2025-01-14 12:09:41,275 - DEBUG - Ball moved from <rect(756, 1, 40, 40)> to <rect(380, 305, 40, 40)>
+2025-01-14 12:09:42,037 - INFO - Current FPS: 60.24
+2025-01-14 12:09:42,559 - DEBUG - Ball hit horizontal boundary at y=613
+2025-01-14 12:09:42,855 - DEBUG - Ball reset to position: (400, 325) with speeds: (-4, -4)
+2025-01-14 12:09:42,856 - DEBUG - Ball reset after right edge score
+2025-01-14 12:09:42,857 - DEBUG - Ball moved from <rect(756, 545, 40, 40)> to <rect(380, 305, 40, 40)>
+2025-01-14 12:09:43,039 - INFO - Current FPS: 59.92
+2025-01-14 12:09:43,979 - DEBUG - Ball collided with player paddle
+2025-01-14 12:09:44,046 - INFO - Current FPS: 60.59
+2025-01-14 12:09:44,127 - DEBUG - Ball hit horizontal boundary at y=-3
+2025-01-14 12:09:45,050 - INFO - Current FPS: 60.73
+2025-01-14 12:09:46,064 - INFO - Current FPS: 60.16
+2025-01-14 12:09:46,672 - DEBUG - Ball hit horizontal boundary at y=613
+2025-01-14 12:09:46,672 - DEBUG - Ball reset to position: (400, 325) with speeds: (4, 4)
+2025-01-14 12:09:46,673 - DEBUG - Ball reset after right edge score
+2025-01-14 12:09:46,673 - DEBUG - Ball moved from <rect(756, 609, 40, 40)> to <rect(380, 305, 40, 40)>
+2025-01-14 12:09:47,070 - INFO - Current FPS: 60.61
+2025-01-14 12:09:47,943 - DEBUG - Ball hit horizontal boundary at y=613
+2025-01-14 12:09:48,074 - INFO - Current FPS: 60.78
+2025-01-14 12:09:48,238 - DEBUG - Ball reset to position: (400, 325) with speeds: (4, 4)
+2025-01-14 12:09:48,240 - DEBUG - Ball reset after right edge score
+2025-01-14 12:09:48,240 - DEBUG - Ball moved from <rect(756, 545, 40, 40)> to <rect(380, 305, 40, 40)>
+2025-01-14 12:09:49,074 - INFO - Current FPS: 59.99
+2025-01-14 12:09:49,521 - DEBUG - Ball hit horizontal boundary at y=613
+2025-01-14 12:09:49,819 - DEBUG - Ball reset to position: (400, 325) with speeds: (4, -4)
+2025-01-14 12:09:49,820 - DEBUG - Ball reset after right edge score
+2025-01-14 12:09:49,820 - DEBUG - Ball moved from <rect(756, 545, 40, 40)> to <rect(380, 305, 40, 40)>
+2025-01-14 12:09:50,086 - INFO - Current FPS: 60.30
+2025-01-14 12:09:51,092 - INFO - Current FPS: 60.61
+2025-01-14 12:09:51,094 - DEBUG - Ball hit horizontal boundary at y=-3
+2025-01-14 12:09:51,392 - DEBUG - Ball reset to position: (400, 325) with speeds: (-4, -4)
+2025-01-14 12:09:51,393 - DEBUG - Ball reset after right edge score
+2025-01-14 12:09:51,394 - DEBUG - Ball moved from <rect(756, 65, 40, 40)> to <rect(380, 305, 40, 40)>
+2025-01-14 12:09:52,107 - INFO - Current FPS: 60.13
+2025-01-14 12:09:52,529 - DEBUG - Ball collided with player paddle
+2025-01-14 12:09:52,677 - DEBUG - Ball hit horizontal boundary at y=-3
+2025-01-14 12:09:53,110 - INFO - Current FPS: 59.79
+2025-01-14 12:09:54,122 - INFO - Current FPS: 60.31
+2025-01-14 12:09:55,136 - INFO - Current FPS: 60.11
+2025-01-14 12:09:55,235 - DEBUG - Ball hit horizontal boundary at y=613
+2025-01-14 12:09:55,236 - DEBUG - Ball reset to position: (400, 325) with speeds: (4, -4)
+2025-01-14 12:09:55,236 - DEBUG - Ball reset after right edge score
+2025-01-14 12:09:55,237 - DEBUG - Ball moved from <rect(756, 609, 40, 40)> to <rect(380, 305, 40, 40)>
+2025-01-14 12:09:56,152 - INFO - Current FPS: 60.06
+2025-01-14 12:09:56,517 - DEBUG - Ball hit horizontal boundary at y=-3
+2025-01-14 12:09:56,811 - DEBUG - Ball reset to position: (400, 325) with speeds: (-4, -4)
+2025-01-14 12:09:56,811 - DEBUG - Ball reset after right edge score
+2025-01-14 12:09:56,812 - DEBUG - Ball moved from <rect(756, 65, 40, 40)> to <rect(380, 305, 40, 40)>
+2025-01-14 12:09:57,163 - INFO - Current FPS: 60.34
+2025-01-14 12:09:57,955 - DEBUG - Ball collided with player paddle
+2025-01-14 12:09:57,971 - DEBUG - Ball collided with player paddle
+2025-01-14 12:09:57,987 - DEBUG - Ball collided with player paddle
+2025-01-14 12:09:58,004 - DEBUG - Ball collided with player paddle
+2025-01-14 12:09:58,020 - DEBUG - Ball collided with player paddle
+2025-01-14 12:09:58,036 - DEBUG - Ball collided with player paddle
+2025-01-14 12:09:58,052 - DEBUG - Ball collided with player paddle
+2025-01-14 12:09:58,067 - DEBUG - Ball collided with player paddle
+2025-01-14 12:09:58,083 - DEBUG - Ball hit horizontal boundary at y=-3
+2025-01-14 12:09:58,083 - DEBUG - Ball collided with player paddle
+2025-01-14 12:09:58,099 - DEBUG - Ball collided with player paddle
+2025-01-14 12:09:58,115 - DEBUG - Ball collided with player paddle
+2025-01-14 12:09:58,132 - DEBUG - Ball collided with player paddle
+2025-01-14 12:09:58,147 - DEBUG - Ball collided with player paddle
+2025-01-14 12:09:58,164 - INFO - Current FPS: 60.94
+2025-01-14 12:09:58,166 - DEBUG - Ball collided with player paddle
+2025-01-14 12:09:58,181 - DEBUG - Ball collided with player paddle
+2025-01-14 12:09:58,198 - DEBUG - Ball collided with player paddle
+2025-01-14 12:09:58,215 - DEBUG - Ball collided with player paddle
+2025-01-14 12:09:58,232 - DEBUG - Ball collided with player paddle
+2025-01-14 12:09:58,248 - DEBUG - Ball collided with player paddle
+2025-01-14 12:09:58,265 - DEBUG - Ball collided with player paddle
+2025-01-14 12:09:58,282 - DEBUG - Ball collided with player paddle
+2025-01-14 12:09:58,298 - DEBUG - Ball collided with player paddle
+2025-01-14 12:09:58,314 - DEBUG - Ball collided with player paddle
+2025-01-14 12:09:58,331 - DEBUG - Ball collided with player paddle
+2025-01-14 12:09:58,346 - DEBUG - Ball collided with player paddle
+2025-01-14 12:09:58,363 - DEBUG - Ball collided with player paddle
+2025-01-14 12:09:58,380 - DEBUG - Ball collided with player paddle
+2025-01-14 12:09:59,172 - INFO - Current FPS: 60.49
+2025-01-14 12:10:00,182 - INFO - Current FPS: 60.42
+2025-01-14 12:10:00,631 - DEBUG - Ball hit horizontal boundary at y=613
+2025-01-14 12:10:01,095 - DEBUG - Ball reset to position: (400, 325) with speeds: (-4, -4)
+2025-01-14 12:10:01,096 - DEBUG - Ball reset after right edge score
+2025-01-14 12:10:01,096 - DEBUG - Ball moved from <rect(756, 505, 40, 40)> to <rect(380, 305, 40, 40)>
+2025-01-14 12:10:01,197 - INFO - Current FPS: 60.08
+2025-01-14 12:10:02,203 - INFO - Current FPS: 60.63
+2025-01-14 12:10:02,371 - DEBUG - Ball hit horizontal boundary at y=-3
+2025-01-14 12:10:02,669 - DEBUG - Ball reset to position: (400, 325) with speeds: (-4, 4)
+2025-01-14 12:10:02,670 - DEBUG - Ball reset after left edge score
+2025-01-14 12:10:02,670 - DEBUG - Ball moved from <rect(4, 65, 40, 40)> to <rect(380, 305, 40, 40)>
+2025-01-14 12:10:03,215 - INFO - Current FPS: 60.28
+2025-01-14 12:10:03,943 - DEBUG - Ball hit horizontal boundary at y=613
+2025-01-14 12:10:04,173 - DEBUG - Ball collided with player paddle
+2025-01-14 12:10:04,191 - DEBUG - Ball collided with player paddle
+2025-01-14 12:10:04,207 - DEBUG - Ball collided with player paddle
+2025-01-14 12:10:04,223 - INFO - Current FPS: 60.50
+2025-01-14 12:10:04,225 - DEBUG - Ball collided with player paddle
+2025-01-14 12:10:04,240 - DEBUG - Ball collided with player paddle
+2025-01-14 12:10:04,256 - DEBUG - Ball collided with player paddle
+2025-01-14 12:10:04,273 - DEBUG - Ball collided with player paddle
+2025-01-14 12:10:04,289 - DEBUG - Ball collided with player paddle
+2025-01-14 12:10:04,307 - DEBUG - Ball collided with player paddle
+2025-01-14 12:10:04,323 - DEBUG - Ball collided with player paddle
+2025-01-14 12:10:04,340 - DEBUG - Ball collided with player paddle
+2025-01-14 12:10:04,356 - DEBUG - Ball collided with player paddle
+2025-01-14 12:10:04,372 - DEBUG - Ball collided with player paddle
+2025-01-14 12:10:04,388 - DEBUG - Ball collided with player paddle
+2025-01-14 12:10:04,405 - DEBUG - Ball collided with player paddle
+2025-01-14 12:10:04,421 - DEBUG - Ball collided with player paddle
+2025-01-14 12:10:04,438 - DEBUG - Ball collided with player paddle
+2025-01-14 12:10:04,456 - DEBUG - Ball collided with player paddle
+2025-01-14 12:10:04,472 - DEBUG - Ball collided with player paddle
+2025-01-14 12:10:04,489 - DEBUG - Ball collided with player paddle
+2025-01-14 12:10:04,504 - DEBUG - Ball collided with player paddle
+2025-01-14 12:10:04,522 - DEBUG - Ball collided with player paddle
+2025-01-14 12:10:04,538 - DEBUG - Ball collided with player paddle
+2025-01-14 12:10:04,554 - DEBUG - Ball collided with player paddle
+2025-01-14 12:10:04,570 - DEBUG - Ball collided with player paddle
+2025-01-14 12:10:04,586 - DEBUG - Ball collided with player paddle
+2025-01-14 12:10:04,602 - DEBUG - Ball collided with player paddle
+2025-01-14 12:10:04,618 - DEBUG - Ball collided with player paddle
+2025-01-14 12:10:04,634 - DEBUG - Ball collided with player paddle
+2025-01-14 12:10:04,652 - DEBUG - Ball collided with player paddle
+2025-01-14 12:10:04,668 - DEBUG - Ball collided with player paddle
+2025-01-14 12:10:04,684 - DEBUG - Ball collided with player paddle
+2025-01-14 12:10:04,700 - DEBUG - Ball collided with player paddle
+2025-01-14 12:10:04,717 - DEBUG - Ball collided with player paddle
+2025-01-14 12:10:04,733 - DEBUG - Ball collided with player paddle
+2025-01-14 12:10:04,748 - DEBUG - Ball collided with player paddle
+2025-01-14 12:10:04,765 - DEBUG - Ball collided with player paddle
+2025-01-14 12:10:04,781 - DEBUG - Ball collided with player paddle
+2025-01-14 12:10:04,799 - DEBUG - Ball collided with player paddle
+2025-01-14 12:10:04,816 - DEBUG - Ball collided with player paddle
+2025-01-14 12:10:04,833 - DEBUG - Ball collided with player paddle
+2025-01-14 12:10:04,850 - DEBUG - Ball collided with player paddle
+2025-01-14 12:10:04,867 - DEBUG - Ball collided with player paddle
+2025-01-14 12:10:04,883 - DEBUG - Ball collided with player paddle
+2025-01-14 12:10:04,900 - DEBUG - Ball collided with player paddle
+2025-01-14 12:10:04,916 - DEBUG - Ball collided with player paddle
+2025-01-14 12:10:04,933 - DEBUG - Ball collided with player paddle
+2025-01-14 12:10:04,949 - DEBUG - Ball collided with player paddle
+2025-01-14 12:10:04,966 - DEBUG - Ball collided with player paddle
+2025-01-14 12:10:04,984 - DEBUG - Ball collided with player paddle
+2025-01-14 12:10:05,000 - DEBUG - Ball collided with player paddle
+2025-01-14 12:10:05,016 - DEBUG - Ball collided with player paddle
+2025-01-14 12:10:05,032 - DEBUG - Ball collided with player paddle
+2025-01-14 12:10:05,049 - DEBUG - Ball collided with player paddle
+2025-01-14 12:10:05,065 - DEBUG - Ball collided with player paddle
+2025-01-14 12:10:05,082 - DEBUG - Ball collided with player paddle
+2025-01-14 12:10:05,097 - DEBUG - Ball collided with player paddle
+2025-01-14 12:10:05,114 - DEBUG - Ball collided with player paddle
+2025-01-14 12:10:05,131 - DEBUG - Ball collided with player paddle
+2025-01-14 12:10:05,148 - DEBUG - Ball collided with player paddle
+2025-01-14 12:10:05,165 - DEBUG - Ball collided with player paddle
+2025-01-14 12:10:05,181 - DEBUG - Ball collided with player paddle
+2025-01-14 12:10:05,197 - DEBUG - Ball collided with player paddle
+2025-01-14 12:10:05,214 - DEBUG - Ball collided with player paddle
+2025-01-14 12:10:05,231 - INFO - Current FPS: 60.52
+2025-01-14 12:10:05,233 - DEBUG - Ball collided with player paddle
+2025-01-14 12:10:05,248 - DEBUG - Ball collided with player paddle
+2025-01-14 12:10:05,265 - DEBUG - Ball collided with player paddle
+2025-01-14 12:10:05,282 - DEBUG - Ball collided with player paddle
+2025-01-14 12:10:05,297 - DEBUG - Ball collided with player paddle
+2025-01-14 12:10:05,314 - DEBUG - Ball collided with player paddle
+2025-01-14 12:10:05,331 - DEBUG - Ball collided with player paddle
+2025-01-14 12:10:05,347 - DEBUG - Ball collided with player paddle
+2025-01-14 12:10:05,363 - DEBUG - Ball collided with player paddle
+2025-01-14 12:10:05,380 - DEBUG - Ball collided with player paddle
+2025-01-14 12:10:05,396 - DEBUG - Ball collided with player paddle
+2025-01-14 12:10:05,414 - DEBUG - Ball collided with player paddle
+2025-01-14 12:10:05,428 - DEBUG - Ball collided with player paddle
+2025-01-14 12:10:05,445 - DEBUG - Ball collided with player paddle
+2025-01-14 12:10:05,461 - DEBUG - Ball collided with player paddle
+2025-01-14 12:10:05,477 - DEBUG - Ball collided with player paddle
+2025-01-14 12:10:05,494 - DEBUG - Ball collided with player paddle
+2025-01-14 12:10:05,511 - DEBUG - Ball collided with player paddle
+2025-01-14 12:10:05,528 - DEBUG - Ball collided with player paddle
+2025-01-14 12:10:05,544 - DEBUG - Ball collided with player paddle
+2025-01-14 12:10:05,561 - DEBUG - Ball collided with player paddle
+2025-01-14 12:10:05,577 - DEBUG - Ball collided with player paddle
+2025-01-14 12:10:05,594 - DEBUG - Ball collided with player paddle
+2025-01-14 12:10:05,611 - DEBUG - Ball collided with player paddle
+2025-01-14 12:10:05,628 - DEBUG - Ball collided with player paddle
+2025-01-14 12:10:05,644 - DEBUG - Ball collided with player paddle
+2025-01-14 12:10:05,661 - DEBUG - Ball collided with player paddle
+2025-01-14 12:10:05,679 - DEBUG - Ball collided with player paddle
+2025-01-14 12:10:05,696 - DEBUG - Ball collided with player paddle
+2025-01-14 12:10:05,711 - DEBUG - Ball collided with player paddle
+2025-01-14 12:10:05,728 - DEBUG - Ball collided with player paddle
+2025-01-14 12:10:05,745 - DEBUG - Ball collided with player paddle
+2025-01-14 12:10:05,830 - DEBUG - Ball reset to position: (400, 325) with speeds: (-4, -4)
+2025-01-14 12:10:05,830 - DEBUG - Ball reset after left edge score
+2025-01-14 12:10:05,831 - DEBUG - Ball moved from <rect(4, 161, 40, 40)> to <rect(380, 305, 40, 40)>
+2025-01-14 12:10:06,243 - INFO - Current FPS: 60.29
+2025-01-14 12:10:06,959 - DEBUG - Ball collided with player paddle
+2025-01-14 12:10:07,110 - DEBUG - Ball hit horizontal boundary at y=-3
+2025-01-14 12:10:07,243 - INFO - Current FPS: 59.99
+2025-01-14 12:10:08,257 - INFO - Current FPS: 60.15
+2025-01-14 12:10:09,267 - INFO - Current FPS: 60.44
+2025-01-14 12:10:09,667 - DEBUG - Ball hit horizontal boundary at y=613
+2025-01-14 12:10:09,667 - DEBUG - Ball reset to position: (400, 325) with speeds: (4, 4)
+2025-01-14 12:10:09,667 - DEBUG - Ball reset after right edge score
+2025-01-14 12:10:09,667 - DEBUG - Ball moved from <rect(756, 609, 40, 40)> to <rect(380, 305, 40, 40)>
+2025-01-14 12:10:10,283 - INFO - Current FPS: 60.04
+2025-01-14 12:10:10,944 - DEBUG - Ball hit horizontal boundary at y=613
+2025-01-14 12:10:11,237 - DEBUG - Ball reset to position: (400, 325) with speeds: (-4, -4)
+2025-01-14 12:10:11,237 - DEBUG - Ball reset after right edge score
+2025-01-14 12:10:11,238 - DEBUG - Ball moved from <rect(756, 545, 40, 40)> to <rect(380, 305, 40, 40)>
+2025-01-14 12:10:11,287 - INFO - Current FPS: 60.73
+2025-01-14 12:10:12,295 - INFO - Current FPS: 60.50
+2025-01-14 12:10:12,512 - DEBUG - Ball hit horizontal boundary at y=-3
+2025-01-14 12:10:12,695 - DEBUG - Ball collided with player paddle
+2025-01-14 12:10:12,712 - DEBUG - Ball collided with player paddle
+2025-01-14 12:10:12,729 - DEBUG - Ball collided with player paddle
+2025-01-14 12:10:12,747 - DEBUG - Ball collided with player paddle
+2025-01-14 12:10:12,763 - DEBUG - Ball collided with player paddle
+2025-01-14 12:10:12,780 - DEBUG - Ball collided with player paddle
+2025-01-14 12:10:12,797 - DEBUG - Ball collided with player paddle
+2025-01-14 12:10:12,814 - DEBUG - Ball collided with player paddle
+2025-01-14 12:10:12,831 - DEBUG - Ball collided with player paddle
+2025-01-14 12:10:12,846 - DEBUG - Ball collided with player paddle
+2025-01-14 12:10:12,862 - DEBUG - Ball collided with player paddle
+2025-01-14 12:10:12,879 - DEBUG - Ball collided with player paddle
+2025-01-14 12:10:13,013 - DEBUG - Ball reset to position: (400, 325) with speeds: (-4, 4)
+2025-01-14 12:10:13,014 - DEBUG - Ball reset after left edge score
+2025-01-14 12:10:13,015 - DEBUG - Ball moved from <rect(4, 113, 40, 40)> to <rect(380, 305, 40, 40)>
+2025-01-14 12:10:13,309 - INFO - Current FPS: 60.20
+2025-01-14 12:10:14,286 - DEBUG - Ball hit horizontal boundary at y=613
+2025-01-14 12:10:14,319 - INFO - Current FPS: 60.36
+2025-01-14 12:10:14,584 - DEBUG - Ball reset to position: (400, 325) with speeds: (-4, -4)
+2025-01-14 12:10:14,584 - DEBUG - Ball reset after left edge score
+2025-01-14 12:10:14,585 - DEBUG - Ball moved from <rect(4, 545, 40, 40)> to <rect(380, 305, 40, 40)>
+2025-01-14 12:10:15,332 - INFO - Current FPS: 60.22
+2025-01-14 12:10:15,864 - DEBUG - Ball hit horizontal boundary at y=-3
+2025-01-14 12:10:15,978 - DEBUG - Ball collided with player paddle
+2025-01-14 12:10:15,995 - DEBUG - Ball collided with player paddle
+2025-01-14 12:10:16,012 - DEBUG - Ball collided with player paddle
+2025-01-14 12:10:16,028 - DEBUG - Ball collided with player paddle
+2025-01-14 12:10:16,045 - DEBUG - Ball collided with player paddle
+2025-01-14 12:10:16,061 - DEBUG - Ball collided with player paddle
+2025-01-14 12:10:16,078 - DEBUG - Ball collided with player paddle
+2025-01-14 12:10:16,095 - DEBUG - Ball collided with player paddle
+2025-01-14 12:10:16,111 - DEBUG - Ball collided with player paddle
+2025-01-14 12:10:16,127 - DEBUG - Ball collided with player paddle
+2025-01-14 12:10:16,144 - DEBUG - Ball collided with player paddle
+2025-01-14 12:10:16,161 - DEBUG - Ball collided with player paddle
+2025-01-14 12:10:16,345 - INFO - Current FPS: 60.23
+2025-01-14 12:10:16,362 - DEBUG - Ball reset to position: (400, 325) with speeds: (-4, -4)
+2025-01-14 12:10:16,363 - DEBUG - Ball reset after left edge score
+2025-01-14 12:10:16,363 - DEBUG - Ball moved from <rect(4, 113, 40, 40)> to <rect(380, 305, 40, 40)>
+2025-01-14 12:10:17,356 - INFO - Current FPS: 60.34
+2025-01-14 12:10:17,490 - DEBUG - Ball collided with player paddle
+2025-01-14 12:10:17,638 - DEBUG - Ball hit horizontal boundary at y=-3
+2025-01-14 12:10:18,364 - INFO - Current FPS: 60.49
+2025-01-14 12:10:19,375 - INFO - Current FPS: 60.38
+2025-01-14 12:10:20,185 - DEBUG - Ball hit horizontal boundary at y=613
+2025-01-14 12:10:20,185 - DEBUG - Ball reset to position: (400, 325) with speeds: (4, -4)
+2025-01-14 12:10:20,186 - DEBUG - Ball reset after right edge score
+2025-01-14 12:10:20,187 - DEBUG - Ball moved from <rect(756, 609, 40, 40)> to <rect(380, 305, 40, 40)>
+2025-01-14 12:10:20,383 - INFO - Current FPS: 60.52
+2025-01-14 12:10:21,388 - INFO - Current FPS: 60.65
+2025-01-14 12:10:21,456 - DEBUG - Ball hit horizontal boundary at y=-3
+2025-01-14 12:10:21,757 - DEBUG - Ball reset to position: (400, 325) with speeds: (-4, 4)
+2025-01-14 12:10:21,757 - DEBUG - Ball reset after right edge score
+2025-01-14 12:10:21,758 - DEBUG - Ball moved from <rect(756, 65, 40, 40)> to <rect(380, 305, 40, 40)>
+2025-01-14 12:10:22,404 - INFO - Current FPS: 60.05
+2025-01-14 12:10:23,031 - DEBUG - Ball hit horizontal boundary at y=613
+2025-01-14 12:10:23,330 - DEBUG - Ball reset to position: (400, 325) with speeds: (4, -4)
+2025-01-14 12:10:23,330 - DEBUG - Ball reset after left edge score
+2025-01-14 12:10:23,330 - DEBUG - Ball moved from <rect(4, 545, 40, 40)> to <rect(380, 305, 40, 40)>
+2025-01-14 12:10:23,411 - INFO - Current FPS: 60.61
+2025-01-14 12:10:24,518 - INFO - Game quit requested
+2025-01-14 12:13:19,590 - INFO - Starting Lilliana Pong...
+2025-01-14 12:14:52,449 - INFO - Starting Lilliana Pong...
+2025-01-14 12:15:36,025 - INFO - Starting Lilliana Pong...
+2025-01-14 12:15:47,686 - INFO - Starting Lilliana Pong...
+2025-01-14 12:15:48,916 - INFO - Attempting to load ball image from: C:\Users\mycol\edu\lillianapong\ball.png
+2025-01-14 12:15:48,921 - INFO - Successfully loaded ball image
+2025-01-14 12:15:48,922 - INFO - Attempting to load paddle image from: C:\Users\mycol\edu\lillianapong\paddle.png
+2025-01-14 12:15:48,930 - INFO - Successfully loaded paddle image
+2025-01-14 12:15:48,931 - INFO - Scaled ball to 40x40
+2025-01-14 12:15:48,932 - INFO - Scaled paddle to 100x191
+2025-01-14 12:15:49,013 - INFO - Ball initialized with speed_x: 4, speed_y: -4
+2025-01-14 12:15:49,014 - DEBUG - Ball reset to position: (400, 325) with speeds: (-4, -4)
+2025-01-14 12:15:50,020 - INFO - Current FPS: 61.63
+2025-01-14 12:15:50,271 - DEBUG - Ball hit horizontal boundary at y=-3
+2025-01-14 12:15:50,569 - DEBUG - Ball reset to position: (400, 325) with speeds: (4, 4)
+2025-01-14 12:15:50,570 - DEBUG - Ball reset after left edge score
+2025-01-14 12:15:50,570 - DEBUG - Ball moved from <rect(4, 65, 40, 40)> to <rect(380, 305, 40, 40)>
+2025-01-14 12:15:51,030 - INFO - Current FPS: 60.41
+2025-01-14 12:15:51,835 - DEBUG - Ball hit horizontal boundary at y=613
+2025-01-14 12:15:52,031 - INFO - Current FPS: 60.92
+2025-01-14 12:15:52,133 - DEBUG - Ball reset to position: (400, 325) with speeds: (4, 4)
+2025-01-14 12:15:52,133 - DEBUG - Ball reset after right edge score
+2025-01-14 12:15:52,134 - DEBUG - Ball moved from <rect(756, 545, 40, 40)> to <rect(380, 305, 40, 40)>
+2025-01-14 12:15:53,041 - INFO - Current FPS: 60.42
+2025-01-14 12:15:53,408 - DEBUG - Ball hit horizontal boundary at y=613
+2025-01-14 12:15:53,705 - DEBUG - Ball reset to position: (400, 325) with speeds: (-4, -4)
+2025-01-14 12:15:53,706 - DEBUG - Ball reset after right edge score
+2025-01-14 12:15:53,706 - DEBUG - Ball moved from <rect(756, 545, 40, 40)> to <rect(380, 305, 40, 40)>
+2025-01-14 12:15:54,049 - INFO - Current FPS: 60.53
+2025-01-14 12:15:54,972 - DEBUG - Ball hit horizontal boundary at y=-3
+2025-01-14 12:15:55,053 - INFO - Current FPS: 60.72
+2025-01-14 12:15:55,268 - DEBUG - Ball reset to position: (400, 325) with speeds: (4, 4)
+2025-01-14 12:15:55,269 - DEBUG - Ball reset after left edge score
+2025-01-14 12:15:55,269 - DEBUG - Ball moved from <rect(4, 65, 40, 40)> to <rect(380, 305, 40, 40)>
+2025-01-14 12:15:56,061 - INFO - Current FPS: 60.55
+2025-01-14 12:15:56,538 - DEBUG - Ball hit horizontal boundary at y=613
+2025-01-14 12:15:56,836 - DEBUG - Ball reset to position: (400, 325) with speeds: (4, -4)
+2025-01-14 12:15:56,837 - DEBUG - Ball reset after right edge score
+2025-01-14 12:15:56,837 - DEBUG - Ball moved from <rect(756, 545, 40, 40)> to <rect(380, 305, 40, 40)>
+2025-01-14 12:15:57,069 - INFO - Current FPS: 60.52
+2025-01-14 12:15:58,075 - INFO - Current FPS: 60.61
+2025-01-14 12:15:58,109 - DEBUG - Ball hit horizontal boundary at y=-3
+2025-01-14 12:15:58,407 - DEBUG - Ball reset to position: (400, 325) with speeds: (4, 4)
+2025-01-14 12:15:58,407 - DEBUG - Ball reset after right edge score
+2025-01-14 12:15:58,408 - DEBUG - Ball moved from <rect(756, 65, 40, 40)> to <rect(380, 305, 40, 40)>
+2025-01-14 12:15:59,084 - INFO - Current FPS: 60.44
+2025-01-14 12:15:59,678 - DEBUG - Ball hit horizontal boundary at y=613
+2025-01-14 12:15:59,982 - DEBUG - Ball reset to position: (400, 325) with speeds: (-4, -4)
+2025-01-14 12:15:59,982 - DEBUG - Ball reset after right edge score
+2025-01-14 12:15:59,982 - DEBUG - Ball moved from <rect(756, 545, 40, 40)> to <rect(380, 305, 40, 40)>
+2025-01-14 12:16:00,098 - INFO - Current FPS: 60.20
+2025-01-14 12:16:00,945 - DEBUG - Ball collided with player paddle
+2025-01-14 12:16:01,110 - INFO - Current FPS: 60.22
+2025-01-14 12:16:01,259 - DEBUG - Ball hit horizontal boundary at y=-3
+2025-01-14 12:16:02,127 - INFO - Current FPS: 59.99
+2025-01-14 12:16:03,128 - INFO - Current FPS: 59.98
+2025-01-14 12:16:03,490 - DEBUG - Ball reset to position: (400, 325) with speeds: (-4, 4)
+2025-01-14 12:16:03,491 - DEBUG - Ball reset after right edge score
+2025-01-14 12:16:03,492 - DEBUG - Ball moved from <rect(756, 529, 40, 40)> to <rect(380, 305, 40, 40)>
+2025-01-14 12:16:04,133 - INFO - Current FPS: 60.70
+2025-01-14 12:16:04,446 - DEBUG - Ball collided with player paddle
+2025-01-14 12:16:04,760 - DEBUG - Ball hit horizontal boundary at y=613
+2025-01-14 12:16:05,144 - INFO - Current FPS: 60.32
+2025-01-14 12:16:06,153 - INFO - Current FPS: 60.46
+2025-01-14 12:16:06,984 - DEBUG - Ball reset to position: (400, 325) with speeds: (4, -4)
+2025-01-14 12:16:06,985 - DEBUG - Ball reset after right edge score
+2025-01-14 12:16:06,985 - DEBUG - Ball moved from <rect(756, 81, 40, 40)> to <rect(380, 305, 40, 40)>
+2025-01-14 12:16:07,165 - INFO - Current FPS: 60.25
+2025-01-14 12:16:08,172 - INFO - Current FPS: 60.58
+2025-01-14 12:16:08,255 - DEBUG - Ball hit horizontal boundary at y=-3
+2025-01-14 12:16:08,553 - DEBUG - Ball reset to position: (400, 325) with speeds: (-4, 4)
+2025-01-14 12:16:08,553 - DEBUG - Ball reset after right edge score
+2025-01-14 12:16:08,554 - DEBUG - Ball moved from <rect(756, 65, 40, 40)> to <rect(380, 305, 40, 40)>
+2025-01-14 12:16:09,186 - INFO - Current FPS: 60.17
+2025-01-14 12:16:09,832 - DEBUG - Ball hit horizontal boundary at y=613
+2025-01-14 12:16:09,935 - DEBUG - Ball collided with player paddle
+2025-01-14 12:16:09,951 - DEBUG - Ball collided with player paddle
+2025-01-14 12:16:09,969 - DEBUG - Ball collided with player paddle
+2025-01-14 12:16:09,984 - DEBUG - Ball collided with player paddle
+2025-01-14 12:16:10,002 - DEBUG - Ball collided with player paddle
+2025-01-14 12:16:10,018 - DEBUG - Ball collided with player paddle
+2025-01-14 12:16:10,035 - DEBUG - Ball collided with player paddle
+2025-01-14 12:16:10,050 - DEBUG - Ball collided with player paddle
+2025-01-14 12:16:10,068 - DEBUG - Ball collided with player paddle
+2025-01-14 12:16:10,085 - DEBUG - Ball collided with player paddle
+2025-01-14 12:16:10,102 - DEBUG - Ball collided with player paddle
+2025-01-14 12:16:10,118 - DEBUG - Ball collided with player paddle
+2025-01-14 12:16:10,135 - DEBUG - Ball collided with player paddle
+2025-01-14 12:16:10,152 - DEBUG - Ball collided with player paddle
+2025-01-14 12:16:10,168 - DEBUG - Ball collided with player paddle
+2025-01-14 12:16:10,184 - DEBUG - Ball collided with player paddle
+2025-01-14 12:16:10,201 - INFO - Current FPS: 60.11
+2025-01-14 12:16:10,202 - DEBUG - Ball collided with player paddle
+2025-01-14 12:16:10,217 - DEBUG - Ball collided with player paddle
+2025-01-14 12:16:10,232 - DEBUG - Ball collided with player paddle
+2025-01-14 12:16:10,249 - DEBUG - Ball collided with player paddle
+2025-01-14 12:16:10,266 - DEBUG - Ball collided with player paddle
+2025-01-14 12:16:10,283 - DEBUG - Ball collided with player paddle
+2025-01-14 12:16:10,299 - DEBUG - Ball collided with player paddle
+2025-01-14 12:16:10,316 - DEBUG - Ball collided with player paddle
+2025-01-14 12:16:10,332 - DEBUG - Ball collided with player paddle
+2025-01-14 12:16:10,349 - DEBUG - Ball collided with player paddle
+2025-01-14 12:16:10,365 - DEBUG - Ball collided with player paddle
+2025-01-14 12:16:10,381 - DEBUG - Ball collided with player paddle
+2025-01-14 12:16:10,398 - DEBUG - Ball collided with player paddle
+2025-01-14 12:16:10,414 - DEBUG - Ball collided with player paddle
+2025-01-14 12:16:10,431 - DEBUG - Ball collided with player paddle
+2025-01-14 12:16:10,448 - DEBUG - Ball collided with player paddle
+2025-01-14 12:16:10,465 - DEBUG - Ball collided with player paddle
+2025-01-14 12:16:10,482 - DEBUG - Ball collided with player paddle
+2025-01-14 12:16:10,497 - DEBUG - Ball collided with player paddle
+2025-01-14 12:16:10,514 - DEBUG - Ball collided with player paddle
+2025-01-14 12:16:10,530 - DEBUG - Ball collided with player paddle
+2025-01-14 12:16:10,547 - DEBUG - Ball collided with player paddle
+2025-01-14 12:16:10,564 - DEBUG - Ball collided with player paddle
+2025-01-14 12:16:10,581 - DEBUG - Ball collided with player paddle
+2025-01-14 12:16:10,597 - DEBUG - Ball collided with player paddle
+2025-01-14 12:16:10,614 - DEBUG - Ball collided with player paddle
+2025-01-14 12:16:10,631 - DEBUG - Ball collided with player paddle
+2025-01-14 12:16:11,212 - INFO - Current FPS: 60.32
+2025-01-14 12:16:12,226 - INFO - Current FPS: 60.17
+2025-01-14 12:16:12,394 - DEBUG - Ball hit horizontal boundary at y=-3
+2025-01-14 12:16:13,234 - INFO - Current FPS: 60.48
+2025-01-14 12:16:13,301 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:16:14,245 - INFO - Current FPS: 60.34
+2025-01-14 12:16:14,943 - DEBUG - Ball hit horizontal boundary at y=613
+2025-01-14 12:16:15,257 - INFO - Current FPS: 60.31
+2025-01-14 12:16:15,556 - DEBUG - Ball collided with player paddle
+2025-01-14 12:16:16,268 - INFO - Current FPS: 60.30
+2025-01-14 12:16:17,285 - INFO - Current FPS: 61.02
+2025-01-14 12:16:17,481 - DEBUG - Ball hit horizontal boundary at y=-3
+2025-01-14 12:16:18,080 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:16:18,081 - DEBUG - Ball reset to position: (400, 325) with speeds: (-4, 4)
+2025-01-14 12:16:18,083 - DEBUG - Ball reset after right edge score
+2025-01-14 12:16:18,083 - DEBUG - Ball moved from <rect(756, 137, 40, 40)> to <rect(380, 305, 40, 40)>
+2025-01-14 12:16:18,293 - INFO - Current FPS: 60.46
+2025-01-14 12:16:19,304 - INFO - Current FPS: 60.37
+2025-01-14 12:16:19,354 - DEBUG - Ball hit horizontal boundary at y=613
+2025-01-14 12:16:19,501 - DEBUG - Ball collided with player paddle
+2025-01-14 12:16:19,518 - DEBUG - Ball collided with player paddle
+2025-01-14 12:16:19,534 - DEBUG - Ball collided with player paddle
+2025-01-14 12:16:19,551 - DEBUG - Ball collided with player paddle
+2025-01-14 12:16:19,567 - DEBUG - Ball collided with player paddle
+2025-01-14 12:16:19,584 - DEBUG - Ball collided with player paddle
+2025-01-14 12:16:19,600 - DEBUG - Ball collided with player paddle
+2025-01-14 12:16:19,616 - DEBUG - Ball collided with player paddle
+2025-01-14 12:16:19,633 - DEBUG - Ball collided with player paddle
+2025-01-14 12:16:19,649 - DEBUG - Ball collided with player paddle
+2025-01-14 12:16:19,665 - DEBUG - Ball collided with player paddle
+2025-01-14 12:16:19,681 - DEBUG - Ball collided with player paddle
+2025-01-14 12:16:19,698 - DEBUG - Ball collided with player paddle
+2025-01-14 12:16:19,714 - DEBUG - Ball collided with player paddle
+2025-01-14 12:16:19,729 - DEBUG - Ball collided with player paddle
+2025-01-14 12:16:19,746 - DEBUG - Ball collided with player paddle
+2025-01-14 12:16:19,763 - DEBUG - Ball collided with player paddle
+2025-01-14 12:16:19,780 - DEBUG - Ball collided with player paddle
+2025-01-14 12:16:19,798 - DEBUG - Ball collided with player paddle
+2025-01-14 12:16:19,814 - DEBUG - Ball collided with player paddle
+2025-01-14 12:16:19,831 - DEBUG - Ball collided with player paddle
+2025-01-14 12:16:19,847 - DEBUG - Ball collided with player paddle
+2025-01-14 12:16:19,864 - DEBUG - Ball collided with player paddle
+2025-01-14 12:16:19,881 - DEBUG - Ball collided with player paddle
+2025-01-14 12:16:19,898 - DEBUG - Ball collided with player paddle
+2025-01-14 12:16:19,915 - DEBUG - Ball collided with player paddle
+2025-01-14 12:16:19,931 - DEBUG - Ball collided with player paddle
+2025-01-14 12:16:19,948 - DEBUG - Ball collided with player paddle
+2025-01-14 12:16:19,965 - DEBUG - Ball collided with player paddle
+2025-01-14 12:16:19,982 - DEBUG - Ball collided with player paddle
+2025-01-14 12:16:19,998 - DEBUG - Ball collided with player paddle
+2025-01-14 12:16:20,014 - DEBUG - Ball collided with player paddle
+2025-01-14 12:16:20,031 - DEBUG - Ball collided with player paddle
+2025-01-14 12:16:20,048 - DEBUG - Ball collided with player paddle
+2025-01-14 12:16:20,065 - DEBUG - Ball collided with player paddle
+2025-01-14 12:16:20,081 - DEBUG - Ball collided with player paddle
+2025-01-14 12:16:20,098 - DEBUG - Ball collided with player paddle
+2025-01-14 12:16:20,115 - DEBUG - Ball collided with player paddle
+2025-01-14 12:16:20,132 - DEBUG - Ball collided with player paddle
+2025-01-14 12:16:20,148 - DEBUG - Ball collided with player paddle
+2025-01-14 12:16:20,164 - DEBUG - Ball collided with player paddle
+2025-01-14 12:16:20,311 - INFO - Current FPS: 60.56
+2025-01-14 12:16:21,322 - INFO - Current FPS: 60.32
+2025-01-14 12:16:21,906 - DEBUG - Ball hit horizontal boundary at y=-3
+2025-01-14 12:16:22,325 - INFO - Current FPS: 59.85
+2025-01-14 12:16:22,893 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:16:23,340 - INFO - Current FPS: 60.07
+2025-01-14 12:16:24,351 - INFO - Current FPS: 60.34
+2025-01-14 12:16:24,469 - DEBUG - Ball hit horizontal boundary at y=613
+2025-01-14 12:16:25,151 - DEBUG - Ball collided with player paddle
+2025-01-14 12:16:25,366 - INFO - Current FPS: 60.12
+2025-01-14 12:16:26,378 - INFO - Current FPS: 60.30
+2025-01-14 12:16:27,024 - DEBUG - Ball hit horizontal boundary at y=-3
+2025-01-14 12:16:27,389 - INFO - Current FPS: 60.32
+2025-01-14 12:16:27,621 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:16:27,638 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:16:27,653 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:16:27,671 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:16:27,687 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:16:27,704 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:16:27,721 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:16:27,738 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:16:27,754 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:16:27,771 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:16:27,788 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:16:27,804 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:16:27,820 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:16:27,837 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:16:27,853 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:16:27,869 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:16:27,886 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:16:27,903 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:16:27,921 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:16:27,937 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:16:27,954 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:16:27,971 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:16:27,987 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:16:28,004 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:16:28,021 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:16:28,036 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:16:28,053 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:16:28,069 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:16:28,086 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:16:28,103 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:16:28,120 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:16:28,138 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:16:28,154 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:16:28,171 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:16:28,186 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:16:28,204 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:16:28,219 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:16:28,236 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:16:28,253 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:16:28,269 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:16:28,286 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:16:28,303 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:16:28,320 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:16:28,337 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:16:28,353 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:16:28,369 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:16:28,386 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:16:28,403 - INFO - Current FPS: 60.13
+2025-01-14 12:16:28,405 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:16:28,420 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:16:28,438 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:16:28,455 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:16:28,471 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:16:28,488 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:16:28,504 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:16:28,520 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:16:28,536 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:16:28,553 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:16:28,569 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:16:28,586 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:16:28,603 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:16:28,619 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:16:29,412 - INFO - Current FPS: 60.48
+2025-01-14 12:16:29,577 - DEBUG - Ball hit horizontal boundary at y=613
+2025-01-14 12:16:30,424 - INFO - Current FPS: 60.26
+2025-01-14 12:16:31,087 - DEBUG - Ball collided with player paddle
+2025-01-14 12:16:31,435 - INFO - Current FPS: 60.35
+2025-01-14 12:16:32,133 - DEBUG - Ball hit horizontal boundary at y=-3
+2025-01-14 12:16:32,451 - INFO - Current FPS: 60.05
+2025-01-14 12:16:33,347 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:16:33,462 - INFO - Current FPS: 60.31
+2025-01-14 12:16:34,468 - INFO - Current FPS: 60.62
+2025-01-14 12:16:34,680 - DEBUG - Ball hit horizontal boundary at y=613
+2025-01-14 12:16:35,478 - INFO - Current FPS: 60.44
+2025-01-14 12:16:35,593 - DEBUG - Ball collided with player paddle
+2025-01-14 12:16:36,491 - INFO - Current FPS: 60.22
+2025-01-14 12:16:37,231 - DEBUG - Ball hit horizontal boundary at y=-3
+2025-01-14 12:16:37,495 - INFO - Current FPS: 60.72
+2025-01-14 12:16:37,847 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:16:38,507 - INFO - Current FPS: 60.26
+2025-01-14 12:16:39,511 - INFO - Current FPS: 60.76
+2025-01-14 12:16:39,781 - DEBUG - Ball hit horizontal boundary at y=613
+2025-01-14 12:16:40,099 - DEBUG - Ball collided with player paddle
+2025-01-14 12:16:40,528 - INFO - Current FPS: 60.03
+2025-01-14 12:16:41,539 - INFO - Current FPS: 60.31
+2025-01-14 12:16:42,329 - DEBUG - Ball hit horizontal boundary at y=-3
+2025-01-14 12:16:42,544 - INFO - Current FPS: 60.72
+2025-01-14 12:16:42,628 - DEBUG - Ball reset to position: (400, 325) with speeds: (4, 4)
+2025-01-14 12:16:42,629 - DEBUG - Ball reset after right edge score
+2025-01-14 12:16:42,630 - DEBUG - Ball moved from <rect(756, 65, 40, 40)> to <rect(380, 305, 40, 40)>
+2025-01-14 12:16:43,547 - INFO - Current FPS: 59.82
+2025-01-14 12:16:43,915 - DEBUG - Ball hit horizontal boundary at y=613
+2025-01-14 12:16:44,215 - DEBUG - Ball reset to position: (400, 325) with speeds: (4, 4)
+2025-01-14 12:16:44,216 - DEBUG - Ball reset after right edge score
+2025-01-14 12:16:44,216 - DEBUG - Ball moved from <rect(756, 545, 40, 40)> to <rect(380, 305, 40, 40)>
+2025-01-14 12:16:44,562 - INFO - Current FPS: 60.10
+2025-01-14 12:16:45,483 - DEBUG - Ball hit horizontal boundary at y=613
+2025-01-14 12:16:45,564 - INFO - Current FPS: 60.85
+2025-01-14 12:16:45,766 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:16:45,783 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:16:45,799 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:16:45,816 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:16:45,834 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:16:45,850 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:16:45,867 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:16:45,884 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:16:45,901 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:16:45,918 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:16:45,934 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:16:45,950 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:16:45,967 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:16:45,984 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:16:46,000 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:16:46,016 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:16:46,032 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:16:46,049 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:16:46,065 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:16:46,083 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:16:46,099 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:16:46,115 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:16:46,132 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:16:46,149 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:16:46,165 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:16:46,182 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:16:46,198 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:16:46,214 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:16:46,231 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:16:46,247 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:16:46,263 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:16:46,280 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:16:46,295 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:16:46,312 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:16:46,328 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:16:46,345 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:16:46,362 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:16:46,378 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:16:46,395 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:16:46,412 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:16:46,429 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:16:46,446 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:16:46,464 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:16:46,480 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:16:46,498 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:16:46,513 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:16:46,529 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:16:46,546 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:16:46,563 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:16:46,579 - INFO - Current FPS: 60.14
+2025-01-14 12:16:46,580 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:16:46,595 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:16:46,612 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:16:46,628 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:16:46,644 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:16:46,662 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:16:46,678 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:16:46,694 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:16:46,709 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:16:46,726 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:16:46,743 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:16:46,759 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:16:47,582 - INFO - Current FPS: 60.80
+2025-01-14 12:16:48,031 - DEBUG - Ball hit horizontal boundary at y=-3
+2025-01-14 12:16:48,592 - INFO - Current FPS: 60.42
+2025-01-14 12:16:49,268 - DEBUG - Ball collided with player paddle
+2025-01-14 12:16:49,601 - INFO - Current FPS: 60.45
+2025-01-14 12:16:50,576 - DEBUG - Ball hit horizontal boundary at y=613
+2025-01-14 12:16:50,609 - INFO - Current FPS: 60.51
+2025-01-14 12:16:51,524 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:16:51,624 - INFO - Current FPS: 60.09
+2025-01-14 12:16:52,631 - INFO - Current FPS: 60.60
+2025-01-14 12:16:53,131 - DEBUG - Ball hit horizontal boundary at y=-3
+2025-01-14 12:16:53,645 - INFO - Current FPS: 60.11
+2025-01-14 12:16:53,778 - DEBUG - Ball collided with player paddle
+2025-01-14 12:16:54,656 - INFO - Current FPS: 60.34
+2025-01-14 12:16:55,668 - INFO - Current FPS: 60.32
+2025-01-14 12:16:55,684 - DEBUG - Ball hit horizontal boundary at y=613
+2025-01-14 12:16:56,010 - INFO - Game quit requested
+2025-01-14 12:17:21,609 - INFO - Starting Lilliana Pong...
+2025-01-14 12:17:22,701 - INFO - Attempting to load ball image from: C:\Users\mycol\edu\lillianapong\ball.png
+2025-01-14 12:17:22,705 - INFO - Successfully loaded ball image
+2025-01-14 12:17:22,706 - INFO - Attempting to load paddle image from: C:\Users\mycol\edu\lillianapong\paddle.png
+2025-01-14 12:17:22,712 - INFO - Successfully loaded paddle image
+2025-01-14 12:17:22,712 - INFO - Scaled ball to 100x100
+2025-01-14 12:17:22,713 - INFO - Scaled paddle to 100x191
+2025-01-14 12:17:22,784 - INFO - Ball initialized with speed_x: 4, speed_y: 4
+2025-01-14 12:17:22,785 - DEBUG - Ball reset to position: (400, 325) with speeds: (-4, 4)
+2025-01-14 12:17:23,789 - INFO - Current FPS: 61.78
+2025-01-14 12:17:23,903 - DEBUG - Ball hit horizontal boundary at y=551
+2025-01-14 12:17:24,052 - DEBUG - Ball collided with player paddle
+2025-01-14 12:17:24,068 - DEBUG - Ball collided with player paddle
+2025-01-14 12:17:24,084 - DEBUG - Ball collided with player paddle
+2025-01-14 12:17:24,101 - DEBUG - Ball collided with player paddle
+2025-01-14 12:17:24,117 - DEBUG - Ball collided with player paddle
+2025-01-14 12:17:24,133 - DEBUG - Ball collided with player paddle
+2025-01-14 12:17:24,149 - DEBUG - Ball collided with player paddle
+2025-01-14 12:17:24,165 - DEBUG - Ball collided with player paddle
+2025-01-14 12:17:24,182 - DEBUG - Ball collided with player paddle
+2025-01-14 12:17:24,199 - DEBUG - Ball collided with player paddle
+2025-01-14 12:17:24,216 - DEBUG - Ball collided with player paddle
+2025-01-14 12:17:24,232 - DEBUG - Ball collided with player paddle
+2025-01-14 12:17:24,248 - DEBUG - Ball collided with player paddle
+2025-01-14 12:17:24,265 - DEBUG - Ball collided with player paddle
+2025-01-14 12:17:24,282 - DEBUG - Ball collided with player paddle
+2025-01-14 12:17:24,298 - DEBUG - Ball collided with player paddle
+2025-01-14 12:17:24,315 - DEBUG - Ball collided with player paddle
+2025-01-14 12:17:24,332 - DEBUG - Ball collided with player paddle
+2025-01-14 12:17:24,348 - DEBUG - Ball collided with player paddle
+2025-01-14 12:17:24,364 - DEBUG - Ball collided with player paddle
+2025-01-14 12:17:24,380 - DEBUG - Ball collided with player paddle
+2025-01-14 12:17:24,396 - DEBUG - Ball collided with player paddle
+2025-01-14 12:17:24,412 - DEBUG - Ball collided with player paddle
+2025-01-14 12:17:24,428 - DEBUG - Ball collided with player paddle
+2025-01-14 12:17:24,444 - DEBUG - Ball collided with player paddle
+2025-01-14 12:17:24,461 - DEBUG - Ball collided with player paddle
+2025-01-14 12:17:24,477 - DEBUG - Ball collided with player paddle
+2025-01-14 12:17:24,495 - DEBUG - Ball collided with player paddle
+2025-01-14 12:17:24,512 - DEBUG - Ball collided with player paddle
+2025-01-14 12:17:24,528 - DEBUG - Ball collided with player paddle
+2025-01-14 12:17:24,544 - DEBUG - Ball collided with player paddle
+2025-01-14 12:17:24,561 - DEBUG - Ball collided with player paddle
+2025-01-14 12:17:24,577 - DEBUG - Ball collided with player paddle
+2025-01-14 12:17:24,594 - DEBUG - Ball collided with player paddle
+2025-01-14 12:17:24,611 - DEBUG - Ball collided with player paddle
+2025-01-14 12:17:24,628 - DEBUG - Ball collided with player paddle
+2025-01-14 12:17:24,644 - DEBUG - Ball collided with player paddle
+2025-01-14 12:17:24,659 - DEBUG - Ball collided with player paddle
+2025-01-14 12:17:24,677 - DEBUG - Ball collided with player paddle
+2025-01-14 12:17:24,693 - DEBUG - Ball collided with player paddle
+2025-01-14 12:17:24,709 - DEBUG - Ball collided with player paddle
+2025-01-14 12:17:24,725 - DEBUG - Ball collided with player paddle
+2025-01-14 12:17:24,742 - DEBUG - Ball collided with player paddle
+2025-01-14 12:17:24,758 - DEBUG - Ball collided with player paddle
+2025-01-14 12:17:24,774 - DEBUG - Ball collided with player paddle
+2025-01-14 12:17:24,791 - INFO - Current FPS: 60.89
+2025-01-14 12:17:24,792 - DEBUG - Ball collided with player paddle
+2025-01-14 12:17:24,809 - DEBUG - Ball collided with player paddle
+2025-01-14 12:17:24,826 - DEBUG - Ball collided with player paddle
+2025-01-14 12:17:24,842 - DEBUG - Ball collided with player paddle
+2025-01-14 12:17:24,859 - DEBUG - Ball collided with player paddle
+2025-01-14 12:17:24,877 - DEBUG - Ball collided with player paddle
+2025-01-14 12:17:24,893 - DEBUG - Ball collided with player paddle
+2025-01-14 12:17:24,910 - DEBUG - Ball collided with player paddle
+2025-01-14 12:17:24,927 - DEBUG - Ball collided with player paddle
+2025-01-14 12:17:24,943 - DEBUG - Ball collided with player paddle
+2025-01-14 12:17:24,959 - DEBUG - Ball collided with player paddle
+2025-01-14 12:17:24,976 - DEBUG - Ball collided with player paddle
+2025-01-14 12:17:24,992 - DEBUG - Ball collided with player paddle
+2025-01-14 12:17:25,009 - DEBUG - Ball collided with player paddle
+2025-01-14 12:17:25,025 - DEBUG - Ball collided with player paddle
+2025-01-14 12:17:25,042 - DEBUG - Ball collided with player paddle
+2025-01-14 12:17:25,058 - DEBUG - Ball collided with player paddle
+2025-01-14 12:17:25,076 - DEBUG - Ball collided with player paddle
+2025-01-14 12:17:25,092 - DEBUG - Ball collided with player paddle
+2025-01-14 12:17:25,109 - DEBUG - Ball collided with player paddle
+2025-01-14 12:17:25,125 - DEBUG - Ball collided with player paddle
+2025-01-14 12:17:25,141 - DEBUG - Ball collided with player paddle
+2025-01-14 12:17:25,158 - DEBUG - Ball collided with player paddle
+2025-01-14 12:17:25,340 - DEBUG - Ball reset to position: (400, 325) with speeds: (4, -4)
+2025-01-14 12:17:25,341 - DEBUG - Ball reset after left edge score
+2025-01-14 12:17:25,342 - DEBUG - Ball moved from <rect(2, 207, 100, 100)> to <rect(350, 275, 100, 100)>
+2025-01-14 12:17:25,803 - INFO - Current FPS: 60.30
+2025-01-14 12:17:26,487 - DEBUG - Ball hit horizontal boundary at y=-1
+2025-01-14 12:17:26,804 - INFO - Current FPS: 59.91
+2025-01-14 12:17:26,807 - DEBUG - Ball reset to position: (400, 325) with speeds: (4, -4)
+2025-01-14 12:17:26,807 - DEBUG - Ball reset after right edge score
+2025-01-14 12:17:26,808 - DEBUG - Ball moved from <rect(698, 71, 100, 100)> to <rect(350, 275, 100, 100)>
+2025-01-14 12:17:27,817 - INFO - Current FPS: 60.21
+2025-01-14 12:17:27,950 - DEBUG - Ball hit horizontal boundary at y=-1
+2025-01-14 12:17:28,116 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:28,133 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:28,150 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:28,167 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:28,184 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:28,200 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:28,217 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:28,234 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:28,251 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:28,268 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:28,285 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:28,302 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:28,318 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:28,334 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:28,351 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:28,368 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:28,385 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:28,402 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:28,419 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:28,435 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:28,452 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:28,469 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:28,485 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:28,500 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:28,517 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:28,534 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:28,550 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:28,567 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:28,584 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:28,599 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:28,616 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:28,632 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:28,649 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:28,667 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:28,683 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:28,699 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:28,717 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:28,734 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:28,750 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:28,766 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:28,784 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:28,801 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:28,817 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:28,833 - INFO - Current FPS: 60.04
+2025-01-14 12:17:28,835 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:28,851 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:28,868 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:28,885 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:28,903 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:28,919 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:28,936 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:28,952 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:28,969 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:28,986 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:29,002 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:29,018 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:29,034 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:29,052 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:29,067 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:29,083 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:29,099 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:29,118 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:29,134 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:29,152 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:29,169 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:29,186 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:29,203 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:29,219 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:29,236 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:29,253 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:29,269 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:29,286 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:29,304 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:29,320 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:29,337 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:29,354 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:29,370 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:29,386 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:29,403 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:29,570 - DEBUG - Ball reset to position: (400, 325) with speeds: (-4, 4)
+2025-01-14 12:17:29,571 - DEBUG - Ball reset after right edge score
+2025-01-14 12:17:29,572 - DEBUG - Ball moved from <rect(698, 383, 100, 100)> to <rect(350, 275, 100, 100)>
+2025-01-14 12:17:29,838 - INFO - Current FPS: 59.71
+2025-01-14 12:17:30,420 - DEBUG - Ball collided with player paddle
+2025-01-14 12:17:30,717 - DEBUG - Ball hit horizontal boundary at y=551
+2025-01-14 12:17:30,850 - INFO - Current FPS: 60.26
+2025-01-14 12:17:31,854 - INFO - Current FPS: 59.78
+2025-01-14 12:17:32,730 - DEBUG - Ball reset to position: (400, 325) with speeds: (4, 4)
+2025-01-14 12:17:32,731 - DEBUG - Ball reset after right edge score
+2025-01-14 12:17:32,731 - DEBUG - Ball moved from <rect(698, 71, 100, 100)> to <rect(350, 275, 100, 100)>
+2025-01-14 12:17:32,862 - INFO - Current FPS: 60.53
+2025-01-14 12:17:33,862 - INFO - Current FPS: 60.00
+2025-01-14 12:17:33,878 - DEBUG - Ball hit horizontal boundary at y=551
+2025-01-14 12:17:34,108 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:34,125 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:34,142 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:34,158 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:34,176 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:34,192 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:34,208 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:34,225 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:34,241 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:34,258 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:34,275 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:34,292 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:34,309 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:34,325 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:34,343 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:34,359 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:34,376 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:34,392 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:34,408 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:34,425 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:34,441 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:34,457 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:34,475 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:34,490 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:34,507 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:34,524 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:34,541 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:34,557 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:34,574 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:34,591 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:34,608 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:34,625 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:34,641 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:34,658 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:34,673 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:34,690 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:34,707 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:34,723 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:34,739 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:34,754 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:34,771 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:34,787 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:34,805 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:34,821 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:34,837 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:34,852 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:34,869 - INFO - Current FPS: 60.57
+2025-01-14 12:17:34,870 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:34,885 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:34,902 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:34,919 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:34,936 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:34,952 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:34,969 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:34,986 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:35,002 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:35,018 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:35,034 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:35,051 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:35,067 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:35,082 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:35,100 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:35,118 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:35,134 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:35,150 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:35,167 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:35,182 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:35,199 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:35,215 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:35,233 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:35,249 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:35,266 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:35,282 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:35,299 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:35,316 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:35,332 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:35,348 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:35,364 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:35,879 - INFO - Current FPS: 60.39
+2025-01-14 12:17:36,162 - DEBUG - Ball hit horizontal boundary at y=-1
+2025-01-14 12:17:36,891 - INFO - Current FPS: 60.24
+2025-01-14 12:17:37,589 - DEBUG - Ball collided with player paddle
+2025-01-14 12:17:37,901 - INFO - Current FPS: 60.39
+2025-01-14 12:17:38,449 - DEBUG - Ball hit horizontal boundary at y=551
+2025-01-14 12:17:38,914 - INFO - Current FPS: 60.25
+2025-01-14 12:17:39,638 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:39,920 - INFO - Current FPS: 58.66
+2025-01-14 12:17:40,764 - DEBUG - Ball hit horizontal boundary at y=-1
+2025-01-14 12:17:40,925 - INFO - Current FPS: 60.65
+2025-01-14 12:17:41,657 - DEBUG - Ball collided with player paddle
+2025-01-14 12:17:41,934 - INFO - Current FPS: 60.48
+2025-01-14 12:17:42,943 - INFO - Current FPS: 60.46
+2025-01-14 12:17:43,043 - DEBUG - Ball hit horizontal boundary at y=551
+2025-01-14 12:17:43,668 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:43,950 - INFO - Current FPS: 60.60
+2025-01-14 12:17:44,967 - INFO - Current FPS: 59.98
+2025-01-14 12:17:45,330 - DEBUG - Ball hit horizontal boundary at y=-1
+2025-01-14 12:17:45,957 - DEBUG - Ball collided with player paddle
+2025-01-14 12:17:45,974 - INFO - Current FPS: 60.58
+2025-01-14 12:17:45,976 - DEBUG - Ball collided with player paddle
+2025-01-14 12:17:45,990 - DEBUG - Ball collided with player paddle
+2025-01-14 12:17:46,006 - DEBUG - Ball collided with player paddle
+2025-01-14 12:17:46,022 - DEBUG - Ball collided with player paddle
+2025-01-14 12:17:46,038 - DEBUG - Ball collided with player paddle
+2025-01-14 12:17:46,054 - DEBUG - Ball collided with player paddle
+2025-01-14 12:17:46,072 - DEBUG - Ball collided with player paddle
+2025-01-14 12:17:46,088 - DEBUG - Ball collided with player paddle
+2025-01-14 12:17:46,104 - DEBUG - Ball collided with player paddle
+2025-01-14 12:17:46,121 - DEBUG - Ball collided with player paddle
+2025-01-14 12:17:46,137 - DEBUG - Ball collided with player paddle
+2025-01-14 12:17:46,154 - DEBUG - Ball collided with player paddle
+2025-01-14 12:17:46,170 - DEBUG - Ball collided with player paddle
+2025-01-14 12:17:46,186 - DEBUG - Ball collided with player paddle
+2025-01-14 12:17:46,203 - DEBUG - Ball collided with player paddle
+2025-01-14 12:17:46,219 - DEBUG - Ball collided with player paddle
+2025-01-14 12:17:46,235 - DEBUG - Ball collided with player paddle
+2025-01-14 12:17:46,251 - DEBUG - Ball collided with player paddle
+2025-01-14 12:17:46,268 - DEBUG - Ball collided with player paddle
+2025-01-14 12:17:46,284 - DEBUG - Ball collided with player paddle
+2025-01-14 12:17:46,301 - DEBUG - Ball collided with player paddle
+2025-01-14 12:17:46,318 - DEBUG - Ball collided with player paddle
+2025-01-14 12:17:46,334 - DEBUG - Ball collided with player paddle
+2025-01-14 12:17:46,351 - DEBUG - Ball collided with player paddle
+2025-01-14 12:17:46,368 - DEBUG - Ball collided with player paddle
+2025-01-14 12:17:46,385 - DEBUG - Ball collided with player paddle
+2025-01-14 12:17:46,402 - DEBUG - Ball collided with player paddle
+2025-01-14 12:17:46,418 - DEBUG - Ball collided with player paddle
+2025-01-14 12:17:46,435 - DEBUG - Ball collided with player paddle
+2025-01-14 12:17:46,452 - DEBUG - Ball collided with player paddle
+2025-01-14 12:17:46,469 - DEBUG - Ball collided with player paddle
+2025-01-14 12:17:46,485 - DEBUG - Ball collided with player paddle
+2025-01-14 12:17:46,501 - DEBUG - Ball collided with player paddle
+2025-01-14 12:17:46,517 - DEBUG - Ball collided with player paddle
+2025-01-14 12:17:46,533 - DEBUG - Ball collided with player paddle
+2025-01-14 12:17:46,549 - DEBUG - Ball collided with player paddle
+2025-01-14 12:17:46,567 - DEBUG - Ball collided with player paddle
+2025-01-14 12:17:46,583 - DEBUG - Ball collided with player paddle
+2025-01-14 12:17:46,600 - DEBUG - Ball collided with player paddle
+2025-01-14 12:17:46,617 - DEBUG - Ball collided with player paddle
+2025-01-14 12:17:46,635 - DEBUG - Ball collided with player paddle
+2025-01-14 12:17:46,651 - DEBUG - Ball collided with player paddle
+2025-01-14 12:17:46,667 - DEBUG - Ball collided with player paddle
+2025-01-14 12:17:46,684 - DEBUG - Ball collided with player paddle
+2025-01-14 12:17:46,700 - DEBUG - Ball collided with player paddle
+2025-01-14 12:17:46,717 - DEBUG - Ball collided with player paddle
+2025-01-14 12:17:46,734 - DEBUG - Ball collided with player paddle
+2025-01-14 12:17:46,751 - DEBUG - Ball collided with player paddle
+2025-01-14 12:17:46,767 - DEBUG - Ball collided with player paddle
+2025-01-14 12:17:46,783 - DEBUG - Ball collided with player paddle
+2025-01-14 12:17:46,800 - DEBUG - Ball collided with player paddle
+2025-01-14 12:17:46,817 - DEBUG - Ball collided with player paddle
+2025-01-14 12:17:46,833 - DEBUG - Ball collided with player paddle
+2025-01-14 12:17:46,850 - DEBUG - Ball collided with player paddle
+2025-01-14 12:17:46,867 - DEBUG - Ball collided with player paddle
+2025-01-14 12:17:46,883 - DEBUG - Ball collided with player paddle
+2025-01-14 12:17:46,900 - DEBUG - Ball collided with player paddle
+2025-01-14 12:17:46,925 - DEBUG - Ball collided with player paddle
+2025-01-14 12:17:46,942 - DEBUG - Ball collided with player paddle
+2025-01-14 12:17:46,960 - DEBUG - Ball collided with player paddle
+2025-01-14 12:17:46,978 - INFO - Current FPS: 59.75
+2025-01-14 12:17:46,981 - DEBUG - Ball collided with player paddle
+2025-01-14 12:17:46,994 - DEBUG - Ball collided with player paddle
+2025-01-14 12:17:47,010 - DEBUG - Ball collided with player paddle
+2025-01-14 12:17:47,027 - DEBUG - Ball collided with player paddle
+2025-01-14 12:17:47,043 - DEBUG - Ball collided with player paddle
+2025-01-14 12:17:47,060 - DEBUG - Ball collided with player paddle
+2025-01-14 12:17:47,076 - DEBUG - Ball collided with player paddle
+2025-01-14 12:17:47,092 - DEBUG - Ball collided with player paddle
+2025-01-14 12:17:47,108 - DEBUG - Ball collided with player paddle
+2025-01-14 12:17:47,124 - DEBUG - Ball collided with player paddle
+2025-01-14 12:17:47,140 - DEBUG - Ball collided with player paddle
+2025-01-14 12:17:47,157 - DEBUG - Ball collided with player paddle
+2025-01-14 12:17:47,621 - DEBUG - Ball hit horizontal boundary at y=551
+2025-01-14 12:17:47,983 - INFO - Current FPS: 60.70
+2025-01-14 12:17:48,990 - INFO - Current FPS: 60.57
+2025-01-14 12:17:49,722 - DEBUG - Ball reset to position: (400, 325) with speeds: (4, -4)
+2025-01-14 12:17:49,722 - DEBUG - Ball reset after right edge score
+2025-01-14 12:17:49,724 - DEBUG - Ball moved from <rect(698, 47, 100, 100)> to <rect(350, 275, 100, 100)>
+2025-01-14 12:17:49,990 - INFO - Current FPS: 59.99
+2025-01-14 12:17:50,881 - DEBUG - Ball hit horizontal boundary at y=-1
+2025-01-14 12:17:50,996 - INFO - Current FPS: 59.61
+2025-01-14 12:17:51,094 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:51,112 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:51,129 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:51,144 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:51,162 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:51,178 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:51,200 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:51,218 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:51,234 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:51,251 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:51,268 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:51,285 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:51,302 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:51,318 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:51,335 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:51,351 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:51,368 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:51,383 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:51,400 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:51,417 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:51,433 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:51,450 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:51,466 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:51,482 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:51,499 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:51,516 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:51,533 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:51,550 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:51,566 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:51,581 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:51,598 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:51,615 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:51,632 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:51,649 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:51,665 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:51,680 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:51,698 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:51,714 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:51,730 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:51,747 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:51,763 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:51,781 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:51,798 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:51,814 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:51,830 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:51,848 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:51,865 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:51,885 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:51,901 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:51,917 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:51,933 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:51,951 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:51,967 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:51,983 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:52,000 - INFO - Current FPS: 59.79
+2025-01-14 12:17:52,000 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:52,017 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:52,034 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:52,051 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:52,068 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:52,084 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:52,100 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:52,117 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:52,134 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:52,151 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:52,167 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:52,184 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:52,200 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:52,217 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:52,232 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:52,249 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:52,265 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:52,281 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:52,298 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:52,315 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:52,332 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:52,350 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:52,367 - DEBUG - Ball collided with opponent paddle
+2025-01-14 12:17:53,014 - INFO - Current FPS: 60.14
+2025-01-14 12:17:53,181 - DEBUG - Ball hit horizontal boundary at y=551
+2025-01-14 12:17:54,023 - INFO - Current FPS: 60.47
+2025-01-14 12:17:54,572 - DEBUG - Ball collided with player paddle
+2025-01-14 12:17:55,037 - INFO - Current FPS: 60.17
+2025-01-14 12:17:55,468 - DEBUG - Ball hit horizontal boundary at y=-1
+2025-01-14 12:17:55,798 - INFO - Game quit requested
